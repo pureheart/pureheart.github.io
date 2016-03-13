@@ -1120,6 +1120,13 @@ a
 .social-list a[title="zhihu"]::before {
   content: "\f1d6";
 }
+.widget-weibo {
+  background: #fafafa;
+  -webkit-box-shadow: 1px 2px 3px #ddd;
+  box-shadow: 1px 2px 3px #ddd;
+  margin-bottom: 30px;
+  word-wrap: break-word;
+}
 #footer {
   width: 96%;
   margin: 0 auto;
