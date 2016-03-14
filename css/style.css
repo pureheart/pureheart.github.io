@@ -946,6 +946,7 @@ a
   color: #000;
 }
 #sidebar .tag small {
+  background: #fafafa;
   margin-left: 15px;
   color: #777;
 }
