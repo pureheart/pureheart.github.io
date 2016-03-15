@@ -1120,24 +1120,6 @@ a
 .social-list a[title="zhihu"]::before {
   content: "\f1d6";
 }
-.social-list .pureheart-search-input {
-  margin-bottom: 30px;
-}
-.social-list .pureheart-search-input input {
-  background: #fafafa;
-  font-family: Helvetica Neue, Helvetica, Arial, "Hiragino Sans GB", sans-serif;
-  font-size: 1em;
-  padding: 10px 15px;
-  border: 1px solid #ddd;
-  width: 100%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  color: #777;
-}
-.social-list .pureheart-search-input input:focus {
-  color: #000;
-}
 #footer {
   width: 96%;
   margin: 0 auto;
