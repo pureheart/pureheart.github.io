@@ -622,6 +622,8 @@ article .entry video {
   max-width: 100%;
   height: auto;
   border: none;
+  -webkit-box-shadow: 2px 2px 3px;
+  box-shadow: 2px 2px 3px;
 }
 article .entry iframe {
   border: none;
