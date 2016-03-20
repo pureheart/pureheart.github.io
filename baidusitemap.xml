@@ -4,6 +4,48 @@
 
     
   <url>
+    <loc>http://pdzhangyi.com/2016/03/20/%E7%9F%AD%E8%A7%86%E9%A2%91/</loc>
+    <lastmod>2016-03-20T06:24:26.000Z</lastmod>
+    <data>
+        <display>
+        <title>短视频</title>
+        <pubTime>2016-03-20T05:57:04.000Z</pubTime>
+        
+        <tag>开眼</tag>
+         
+         
+           
+             
+              <breadCrumb title="视频" url="http://pdzhangyi.com/categories/%E8%A7%86%E9%A2%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://pdzhangyi.com/2016/03/14/%E7%BB%88%E4%BA%8E%E9%81%87%E8%A7%81%E4%BD%A0/</loc>
+    <lastmod>2016-03-20T05:46:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>终于遇见你</title>
+        <pubTime>2016-03-14T14:08:17.000Z</pubTime>
+        
+        <tag>Github Pages!</tag>
+         
+        <tag>hello-world</tag>
+         
+         
+           
+             
+              <breadCrumb title="闲聊" url="http://pdzhangyi.com/categories/%E9%97%B2%E8%81%8A/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://pdzhangyi.com/2016/03/16/%E7%9C%8B%EF%BC%8C%E8%BF%99%E4%B8%96%E7%95%8C%EF%BC%81/</loc>
     <lastmod>2016-03-20T05:43:11.000Z</lastmod>
     <data>
@@ -19,28 +61,6 @@
            
              
               <breadCrumb title="照片" url="http://pdzhangyi.com/categories/%E7%85%A7%E7%89%87/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://pdzhangyi.com/2016/03/20/%E7%BB%88%E4%BA%8E%E9%81%87%E8%A7%81%E4%BD%A0/</loc>
-    <lastmod>2016-03-20T05:25:39.000Z</lastmod>
-    <data>
-        <display>
-        <title>终于遇见你</title>
-        <pubTime>2016-03-20T05:25:39.000Z</pubTime>
-        
-        <tag>Github Pages!</tag>
-         
-        <tag>hello-world</tag>
-         
-         
-           
-             
-              <breadCrumb title="闲聊" url="http://pdzhangyi.com/categories/%E9%97%B2%E8%81%8A/"/>
           
         </display>
     </data>
