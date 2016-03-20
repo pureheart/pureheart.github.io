@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-03-20T09:31:45.000Z</updated>
+  <updated>2016-03-20T09:33:51.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://pdzhangyi.com/2016/03/20/%E9%98%BF%E9%87%8C%E5%AE%9E%E4%B9%A0-%E8%A1%8C%E5%AE%B6/"/>
     <id>http://pdzhangyi.com/2016/03/20/阿里实习-行家/</id>
     <published>2016-03-20T08:30:17.000Z</published>
-    <updated>2016-03-20T09:31:45.000Z</updated>
+    <updated>2016-03-20T09:33:51.000Z</updated>
     
     <content type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;成也萧何，败也萧何&lt;/blockquote&gt;
 
@@ -32,15 +32,16 @@
 &lt;ul&gt;
 &lt;li&gt;对于岗位的熟知程度：实际工作和素质、能力要求&lt;/li&gt;
 &lt;li&gt;个人经历提炼总结与岗位的匹配&lt;/li&gt;
-&lt;li&gt;非客观性的自我描述的斟酌&lt;br&gt;表象要求： &lt;/li&gt;
+&lt;li&gt;非客观性的自我描述的斟酌&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;表象要求： &lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;证件照片：标准、清晰&lt;/li&gt;
 &lt;li&gt;客观性描述的数据化：一等奖学金（前5%），带有百分比的数据更有说服力&lt;/li&gt;
 &lt;li&gt;适合岗位的风格和排版：产品岗位的简历本身就应该是一个产品&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;简历投递&quot;&gt;&lt;a href=&quot;#简历投递&quot; class=&quot;headerlink&quot; title=&quot;简历投递&quot;&gt;&lt;/a&gt;简历投递&lt;/h3&gt;&lt;p&gt;简历准备好后，上传至阿里校招官网，需要在网站上回答三个问题，我基本上是按照简历内容来回答的（网上有太多精妙的回答，但是并不介意按照那些套路来，回到真实的自己，答案才有可能更出彩）。&lt;br&gt;简历投递中还有一个很重要的部门选择，我当时居然选了高德。太多的缘故，又加之被推荐到的阿里集团，这导致了我最后去了旺信这个产品事业部。还是当初不够自信，没有选择支付宝，疑惑是淘宝及其他大的产品。不过有喜也有忧，最后被分配的是内部创业行家，感觉学到的也许有一些不同。&lt;/p&gt;
-&lt;p&gt;##面试&lt;/p&gt;
-&lt;p&gt;###面试浅谈&lt;/p&gt;
-&lt;p&gt;阿里的校招实习生内推面试（非技术）：&lt;/p&gt;
+&lt;h2 id=&quot;面试&quot;&gt;&lt;a href=&quot;#面试&quot; class=&quot;headerlink&quot; title=&quot;面试&quot;&gt;&lt;/a&gt;面试&lt;/h2&gt;&lt;h3 id=&quot;面试浅谈&quot;&gt;&lt;a href=&quot;#面试浅谈&quot; class=&quot;headerlink&quot; title=&quot;面试浅谈&quot;&gt;&lt;/a&gt;面试浅谈&lt;/h3&gt;&lt;p&gt;阿里的校招实习生内推面试（非技术）：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;一面（电话面试）：了解基本情况，合适简历真实性，简单有内容的自我介绍尤为重要。&lt;/li&gt;
 &lt;li&gt;二面（技术面试）：有针对性的进行提问，并且较为深入的追问。&lt;/li&gt;
@@ -51,10 +52,8 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;###我的面试&lt;/p&gt;
-&lt;p&gt;一面，在寝室，不到十分钟结束，按照约定时间，正常开始，却出乎意料如此简短，主要原因在于，校招面试工作的繁重，需要处理的简历尤其之多，因此如何抓住这几分钟，表现出个人特点和优势是关键。我觉得一方面简历上的几个奖项给了我不小的起点，其次大学期间的学生工作经历也给了几分稳重和熟练的表达能力。&lt;br&gt;二面，在大街上接到电话，原本希望要另约时间，却被告知面试官很忙，不得已而为之找了一个角落，巴拉巴拉面了三四十分钟。关键还是大学期间的项目经历较为丰富，也有一定的产品思考和设计在里面。但是那个时候对于产品模型（产品架构+运营体系+商业模式）还不够抽象和了解，对于app的深入思考和理解也还不够。&lt;br&gt;过了二面基本上就过了。 三面如实照答，一切顺利。&lt;br&gt;总结：由于对于自身的项目经历的自信，也导致了自身对于其他产品的深入研究过少，这一点对我后来的影响尤为深远（好痛、好痛）。&lt;/p&gt;
-&lt;p&gt;#结果&lt;/p&gt;
-&lt;p&gt;后来顺利的收到了阿里的offer，被分配到了旺信与客户端事业部行家项目组，也开开心心浪了。似曾相识，拿到了阿里的offer，其他的面试涣散太多，以至于神往的腾讯挂在了一面。成也萧何，败也萧何。&lt;/p&gt;
+&lt;h3 id=&quot;我的面试&quot;&gt;&lt;a href=&quot;#我的面试&quot; class=&quot;headerlink&quot; title=&quot;我的面试&quot;&gt;&lt;/a&gt;我的面试&lt;/h3&gt;&lt;p&gt;一面，在寝室，不到十分钟结束，按照约定时间，正常开始，却出乎意料如此简短，主要原因在于，校招面试工作的繁重，需要处理的简历尤其之多，因此如何抓住这几分钟，表现出个人特点和优势是关键。我觉得一方面简历上的几个奖项给了我不小的起点，其次大学期间的学生工作经历也给了几分稳重和熟练的表达能力。&lt;br&gt;二面，在大街上接到电话，原本希望要另约时间，却被告知面试官很忙，不得已而为之找了一个角落，巴拉巴拉面了三四十分钟。关键还是大学期间的项目经历较为丰富，也有一定的产品思考和设计在里面。但是那个时候对于产品模型（产品架构+运营体系+商业模式）还不够抽象和了解，对于app的深入思考和理解也还不够。&lt;br&gt;过了二面基本上就过了。 三面如实照答，一切顺利。&lt;br&gt;总结：由于对于自身的项目经历的自信，也导致了自身对于其他产品的深入研究过少，这一点对我后来的影响尤为深远（好痛、好痛）。&lt;/p&gt;
+&lt;h1 id=&quot;结果&quot;&gt;&lt;a href=&quot;#结果&quot; class=&quot;headerlink&quot; title=&quot;结果&quot;&gt;&lt;/a&gt;结果&lt;/h1&gt;&lt;p&gt;后来顺利的收到了阿里的offer，被分配到了旺信与客户端事业部行家项目组，也开开心心浪了。似曾相识，拿到了阿里的offer，其他的面试涣散太多，以至于神往的腾讯挂在了一面。成也萧何，败也萧何。&lt;/p&gt;
 &lt;blockquote class=&quot;blockquote-center&quot;&gt;有机会，一定要全力以赴，切记。&lt;/blockquote&gt;
 
 
