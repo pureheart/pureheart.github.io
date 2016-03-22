@@ -59,15 +59,15 @@
 
 
 
-<meta name="description" content="想法+策划+技术=梦想">
+<meta name="description" content="带着产品的心周游世界">
 <meta property="og:type" content="website">
 <meta property="og:title" content="凿光看世界">
 <meta property="og:url" content="http://pdzhangyi.com/categories/产品/index.html">
 <meta property="og:site_name" content="凿光看世界">
-<meta property="og:description" content="想法+策划+技术=梦想">
+<meta property="og:description" content="带着产品的心周游世界">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="凿光看世界">
-<meta name="twitter:description" content="想法+策划+技术=梦想">
+<meta name="twitter:description" content="带着产品的心周游世界">
 
 
 
@@ -318,7 +318,7 @@
                src="/images/author.png"
                alt="一章" />
           <p class="site-author-name" itemprop="name">一章</p>
-          <p class="site-description motion-element" itemprop="description">想法+策划+技术=梦想</p>
+          <p class="site-description motion-element" itemprop="description">带着产品的心周游世界</p>
         </div>
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
@@ -706,5 +706,16 @@ $(function() {
 }); 
 </script>
   
+  <!--lazyload图片延迟加载-->
+  <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery-lazyload/1.9.5/jquery.lazyload.min.js"></script>
+    <script type="text/javascript">
+      jQuery(function() {          
+          jQuery("img").lazyload({
+  <!--jQuery("img").lazyload({ threshold : 200 });-->
+            placeholder:"http://www.pdzhangyi.com/loading.gif",
+              effect:"fadeIn"
+            });
+          });
+  </script>
 </body>
 </html>
