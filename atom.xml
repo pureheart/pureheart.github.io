@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-03-22T14:32:02.000Z</updated>
+  <updated>2016-03-23T17:06:38.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -14,6 +14,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Market Sizing</title>
+    <link href="http://pdzhangyi.com/2016/03/23/Market-Sizing/"/>
+    <id>http://pdzhangyi.com/2016/03/23/Market-Sizing/</id>
+    <published>2016-03-23T14:34:39.000Z</published>
+    <updated>2016-03-23T17:06:38.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-24/96707886.jpg&quot; alt=&quot;地铁&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;最近在网易笔试中遇到了Market Sizing的题目：估算一下一年内在互联网参加考研培训的人数。之前遇到这种题目，我基本的思路属于分解+估算比例+已知数据。但是往往缺乏一定的方向和框架，导致估算的思路比较乱。这里浅谈一下Market Sizing。&lt;/p&gt;
+&lt;h1 id=&quot;什么是Market-Sizing&quot;&gt;&lt;a href=&quot;#什么是Market-Sizing&quot; class=&quot;headerlink&quot; title=&quot;什么是Market Sizing&quot;&gt;&lt;/a&gt;什么是Market Sizing&lt;/h1&gt;&lt;p&gt;Market Sizing questions有时也被叫做Back of the envelope questions，Market Sizing简单的来说就是快速的市场估算。这在咨询行业里，几乎是case interview里面最为基础的。它可以考察以下几点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Structured thinking:框架搭的好不好，breakdown做的合不合理&lt;/li&gt;
+&lt;li&gt;Logical reasoning：能不能为自己做出的假设提供有力的逻辑支持&lt;/li&gt;
+&lt;li&gt;Priorization and result-oriented：不纠缠于太细节的东西，找到最关键的因素并得出答案&lt;/li&gt;
+&lt;li&gt;Quantitative skills：计算能力&lt;/li&gt;
+&lt;li&gt;Business/Industry knowledge&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这其中前三点是最为核心的，而第四点在单独面试时，可以提出用草稿计算的方式，加减乘除。第五点则需要掌握一定的常识和对于一些广泛数据有一定的了解和认知。正是因为其比较简单但又能直白而较为深入的考察应聘者的思维逻辑等能力，在互联网公司的非技术面试中越来越受欢迎。&lt;/p&gt;
+&lt;h1 id=&quot;如何回答&quot;&gt;&lt;a href=&quot;#如何回答&quot; class=&quot;headerlink&quot; title=&quot;如何回答&quot;&gt;&lt;/a&gt;如何回答&lt;/h1&gt;&lt;p&gt;咨询行业是一个古老而成熟的行业了，所以也不奇怪Market Sizing会有很多framework可以采用了。&lt;br&gt;一般有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Supply/Demand&lt;/li&gt;
+&lt;li&gt;Top down/Bottom up&lt;/li&gt;
+&lt;li&gt;Breakdown方法：Demographic, Application, Age, Income Level, Tier of City etc&lt;/li&gt;
+&lt;li&gt;Extra step  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果想要深入了解，则可以阅读《Case in Point》和&lt;a href=&quot;http://i.youku.com/u/UMjY5MjcxNDc2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;优土视频&lt;/a&gt;。&lt;br&gt;回到面试环节上来说，一般情况是在单独面试的时候，腾讯基本上是总监面的时候，我们结合具体的两个案例分析。&lt;br&gt;1.估算北京地铁一天的客运量。&lt;br&gt;2.估算一年内在互联网参加考研培训的人数。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-24/96707886.jpg&quot; alt=&quot;地铁&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="市场营销" scheme="http://pdzhangyi.com/categories/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80/"/>
+    
+    
+      <category term="面试" scheme="http://pdzhangyi.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>产品汪的三六九等</title>
@@ -136,9 +177,9 @@
       <category term="回忆" scheme="http://pdzhangyi.com/categories/%E5%9B%9E%E5%BF%86/"/>
     
     
-      <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
-    
       <category term="面试" scheme="http://pdzhangyi.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+      <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
     
   </entry>
   
