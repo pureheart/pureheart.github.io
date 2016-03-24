@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-03-23T17:13:20.000Z</updated>
+  <updated>2016-03-24T17:19:10.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -20,11 +20,15 @@
     <link href="http://pdzhangyi.com/2016/03/23/Market-Sizing/"/>
     <id>http://pdzhangyi.com/2016/03/23/Market-Sizing/</id>
     <published>2016-03-23T14:34:39.000Z</published>
-    <updated>2016-03-23T17:13:20.000Z</updated>
+    <updated>2016-03-24T17:19:10.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-24/96707886.jpg&quot; alt=&quot;地铁&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;最近在网易笔试中遇到了Market Sizing的题目：估算一下一年内在互联网参加考研培训的人数。之前遇到这种题目，我基本的思路属于分解+估算比例+已知数据。但是往往缺乏一定的方向和框架，导致估算的思路比较乱。这里浅谈一下Market Sizing。&lt;/p&gt;
-&lt;h1 id=&quot;什么是Market-Sizing&quot;&gt;&lt;a href=&quot;#什么是Market-Sizing&quot; class=&quot;headerlink&quot; title=&quot;什么是Market Sizing&quot;&gt;&lt;/a&gt;什么是Market Sizing&lt;/h1&gt;&lt;p&gt;Market Sizing questions有时也被叫做Back of the envelope questions，Market Sizing简单的来说就是快速的市场估算。这在咨询行业里，几乎是case interview里面最为基础的。它可以考察以下几点：&lt;/p&gt;
+&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;最近在网易笔试中遇到了Market Sizing的题目：估算一下一年内在互联网参加考研培训的人数。之前遇到这种题目，我基本的思路属于分解+估算比例+已知数据。但是往往缺乏很明确的方向和框架，导致估算的思路比较乱，关键就是breakdown做得不好。这里浅谈一下Market Sizing。&lt;/p&gt;
+&lt;h1 id=&quot;什么是Market-Sizing&quot;&gt;&lt;a href=&quot;#什么是Market-Sizing&quot; class=&quot;headerlink&quot; title=&quot;什么是Market Sizing&quot;&gt;&lt;/a&gt;什么是Market Sizing&lt;/h1&gt;&lt;h2 id=&quot;概念&quot;&gt;&lt;a href=&quot;#概念&quot; class=&quot;headerlink&quot; title=&quot;概念&quot;&gt;&lt;/a&gt;概念&lt;/h2&gt;&lt;p&gt;Market Sizing questions有时也被叫做Back of the envelope questions。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Back of the envelope questions 指的是一类需要经过很粗略的计算，不精确，但可以被用作对某个观点的支持或论据的问题。简单的说，得出的结论是介于猜测和铁证之间的一个概念。常用在数学，物理，及某些工程领域中。&lt;/p&gt;
+&lt;h2 id=&quot;考察点&quot;&gt;&lt;a href=&quot;#考察点&quot; class=&quot;headerlink&quot; title=&quot;考察点&quot;&gt;&lt;/a&gt;考察点&lt;/h2&gt;&lt;p&gt;Market Sizing简单的来说就是快速的市场估算。这在咨询行业里，几乎是case interview里面最为基础的。它可以考察以下几点：&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Structured thinking:框架搭的好不好，breakdown做的合不合理&lt;/li&gt;
 &lt;li&gt;Logical reasoning：能不能为自己做出的假设提供有力的逻辑支持&lt;/li&gt;
@@ -33,18 +37,29 @@
 &lt;li&gt;Business/Industry knowledge&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;这其中前三点是最为核心的，而第四点在单独面试时，可以提出用草稿计算的方式，加减乘除。第五点则需要掌握一定的常识和对于一些广泛数据有一定的了解和认知。正是因为其比较简单但又能直白而较为深入的考察应聘者的思维逻辑等能力，在互联网公司的非技术面试中越来越受欢迎。&lt;/p&gt;
-&lt;h1 id=&quot;如何回答&quot;&gt;&lt;a href=&quot;#如何回答&quot; class=&quot;headerlink&quot; title=&quot;如何回答&quot;&gt;&lt;/a&gt;如何回答&lt;/h1&gt;&lt;p&gt;咨询行业是一个古老而成熟的行业了，所以也不奇怪Market Sizing会有很多framework可以采用了。&lt;br&gt;一般有：&lt;/p&gt;
+&lt;h1 id=&quot;如何回答&quot;&gt;&lt;a href=&quot;#如何回答&quot; class=&quot;headerlink&quot; title=&quot;如何回答&quot;&gt;&lt;/a&gt;如何回答&lt;/h1&gt;&lt;h2 id=&quot;常用framework&quot;&gt;&lt;a href=&quot;#常用framework&quot; class=&quot;headerlink&quot; title=&quot;常用framework&quot;&gt;&lt;/a&gt;常用framework&lt;/h2&gt;&lt;p&gt;咨询行业是一个古老而成熟的行业了，所以也不奇怪Market Sizing会有很多framework可以采用了。&lt;br&gt;一般有：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Supply/Demand&lt;/li&gt;
-&lt;li&gt;Top down/Bottom up&lt;/li&gt;
-&lt;li&gt;Breakdown方法：Demographic, Application, Age, Income Level, Tier of City etc&lt;/li&gt;
-&lt;li&gt;Extra step  &lt;/li&gt;
+&lt;li&gt;Supply/Demand：供需情况考虑。&lt;/li&gt;
+&lt;li&gt;Top down/Bottom up：top-down是由上至下，而bottom-up由下至上的意思。top = 目的(objective)，bottom = 方法细节(action)。即top-down是由目的开始，推到达到目的方法与其细节。而bottom-up则是由要采取、或是能采取的行动开始思考，最后看这些行动是否能达到目的。【Top-down思考的人会先花很多时间在搞清楚目的与框架上，bottom-up的人则是通常先把要做的事情一个个列出来后，才思考这和原本的目的有什么关系】&lt;/li&gt;
+&lt;li&gt;Breakdown方法：Demographic, Application, Age, Income Level, Tier of City etc：通常来说就是从“年龄/性别/家庭/地域/种族/特征”等角度去对问题进行拆解。&lt;/li&gt;
+&lt;li&gt;Extra step：额外的情况考虑。&lt;h2 id=&quot;深入了解&quot;&gt;&lt;a href=&quot;#深入了解&quot; class=&quot;headerlink&quot; title=&quot;深入了解&quot;&gt;&lt;/a&gt;深入了解&lt;/h2&gt;如果想要深入了解，则可以阅读《Case in Point》和&lt;a href=&quot;http://i.youku.com/u/UMjY5MjcxNDc2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;视频&lt;/a&gt;。回答该类问题有一定的前提，需要掌握一定的常识和有一定的数据概念储备和认知，再结合相应的框架进行逐层拆解即可。其实在回答过程中，我们往往是这几种框架并用，甚至可以互相验证增加估算的把握。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;如果想要深入了解，则可以阅读《Case in Point》和&lt;a href=&quot;http://i.youku.com/u/UMjY5MjcxNDc2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;优土视频&lt;/a&gt;。&lt;br&gt;回到面试环节上来说，一般情况是在单独面试的时候，腾讯基本上是总监面的时候，我们结合具体的两个案例分析。&lt;/p&gt;
+&lt;h1 id=&quot;真题解析&quot;&gt;&lt;a href=&quot;#真题解析&quot; class=&quot;headerlink&quot; title=&quot;真题解析&quot;&gt;&lt;/a&gt;真题解析&lt;/h1&gt;&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;回到面试环节上来说，下面是两道常见的market sizing题目。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;估算北京地铁一天的客运量。&lt;/li&gt;
-&lt;li&gt;估算一年内在互联网参加考研培训的人数。&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;估算一年内在互联网参加考研培训的人数。&lt;/p&gt;
+&lt;h2 id=&quot;解答&quot;&gt;&lt;a href=&quot;#解答&quot; class=&quot;headerlink&quot; title=&quot;解答&quot;&gt;&lt;/a&gt;解答&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;客运量：从需求出发，可以算北京人民每天坐地铁的需求有多少。从供给量出发，可以直接拆解估算北京地铁一天的客运量。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;从供给量出发，结合Bottom up，北京地铁一天的客运量=(A)北京一天运行的地铁数量 &lt;em&gt; (B)每量地铁的标准载客量 &lt;/em&gt; (C)地铁的上座率。&lt;br&gt;(A)北京一天运行的地铁数量=(1)北京地铁线路数 &lt;em&gt; 2（来回双线） &lt;/em&gt; (2)每条线路同时运行的地铁数量 &lt;em&gt; (3)每量地铁一天的运行次数；&lt;br&gt;(1)北京地铁线路数暂且估算为15条；(2)每条线路同时运行的地铁数量，可以根据同一时刻，两辆地铁的间隔站数，然后根据总站数估算出（两辆地铁的间隔站数可以根据两量地铁的间隔时间–一般为10分钟和一辆地铁每经过一个站需要5分钟，即可得出每2站一量地铁；再结合总站数约30站，即可得出每条线路同时运行的地铁数量为15量）；(3)每量地铁一天的运行次数：地铁一天运营时间为早上7点~晚上23点，共16小时，一趟地铁从起始站到终点站平均1.5小时（30站 &lt;/em&gt; 5分钟），得出一两滴天一天运行10次。得到（A）=（1） &lt;em&gt; （2） &lt;/em&gt; （3）= 2250量。&lt;br&gt;(B)每量地铁的标准载客量=每节城厢的标客量 &lt;em&gt; 车厢数=100（一节车厢长度在10米左右，车宽2.5米，每个人的站立面积0.3&lt;/em&gt;0.3，早就超过100了） * 25=2500人。&lt;br&gt;(C)地铁的上座率，北京嘛，去做过一次，阴影现在还存在着，人太多了。。。这个上座率我觉得可以算150%。。。&lt;br&gt;最终所得乘积为8437500人，即800W。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;从需求量出发，结合人群类型进行breakdown。乘坐地铁的人员有：学生、无车的蓝白领阶级、其他。&lt;br&gt;学生：北京市高考生数量&lt;em&gt;9：3年高中生+3年初中+四年级到六年级，三年级及以下暂不考虑= 10W &lt;/em&gt; 9=90W；&lt;br&gt;无车的蓝白领阶级：无车白领（简单的以北京市高校生估算，北京高校数量全国第一，大学生数量可以预估为30W） &lt;em&gt; 6（大学毕业到三十岁之间约有6车奋斗史）=180W，蓝领预估为同等人数180W；&lt;br&gt;再根据Extra step结合其他人群（+50W，包含平日上课不需要乘坐地铁的大学生），得出总人数在500W。&lt;br&gt;需求总量在：需要乘坐地铁的总人数 &lt;/em&gt; 一天乘坐地铁次数 =1000W。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;需求明显比供应量多出200W，也能反映出北京地铁极其拥挤的现状。因此大概可以估算出北京市地铁一天的客运量在800W~1000W之间。（根据新闻报道，北京市2015年轨道交通约占1000万人次），在面试中如果能有如此的精度算是很惊人的了。&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
     
     <summary type="html">
