@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-03-24T17:22:17.000Z</updated>
+  <updated>2016-03-24T17:24:51.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://pdzhangyi.com/2016/03/23/Market-Sizing/"/>
     <id>http://pdzhangyi.com/2016/03/23/Market-Sizing/</id>
     <published>2016-03-23T14:34:39.000Z</published>
-    <updated>2016-03-24T17:22:17.000Z</updated>
+    <updated>2016-03-24T17:24:51.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-24/96707886.jpg&quot; alt=&quot;地铁&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;最近在网易笔试中遇到了Market Sizing的题目：估算一下一年内在互联网参加考研培训的人数。之前遇到这种题目，我基本的思路属于分解+估算比例+已知数据。但是往往缺乏很明确的方向和框架，导致估算的思路比较乱，关键就是breakdown做得不好。这里浅谈一下Market Sizing。&lt;/p&gt;
@@ -30,14 +30,14 @@
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;考察点&quot;&gt;&lt;a href=&quot;#考察点&quot; class=&quot;headerlink&quot; title=&quot;考察点&quot;&gt;&lt;/a&gt;考察点&lt;/h2&gt;&lt;p&gt;Market Sizing简单的来说就是快速的市场估算。这在咨询行业里，几乎是case interview里面最为基础的。它可以考察以下几点：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Structured thinking:框架搭的好不好，breakdown做的合不合理&lt;/li&gt;
+&lt;li&gt;Structured thinking：框架搭的好不好，breakdown做的合不合理&lt;/li&gt;
 &lt;li&gt;Logical reasoning：能不能为自己做出的假设提供有力的逻辑支持&lt;/li&gt;
 &lt;li&gt;Priorization and result-oriented：不纠缠于太细节的东西，找到最关键的因素并得出答案&lt;/li&gt;
 &lt;li&gt;Quantitative skills：计算能力&lt;/li&gt;
 &lt;li&gt;Business/Industry knowledge&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;这其中前三点是最为核心的，而第四点在单独面试时，可以提出用草稿计算的方式，加减乘除。第五点则需要掌握一定的常识和对于一些广泛数据有一定的了解和认知。正是因为其比较简单但又能直白而较为深入的考察应聘者的思维逻辑等能力，在互联网公司的非技术面试中越来越受欢迎。&lt;/p&gt;
-&lt;h1 id=&quot;如何回答&quot;&gt;&lt;a href=&quot;#如何回答&quot; class=&quot;headerlink&quot; title=&quot;如何回答&quot;&gt;&lt;/a&gt;如何回答&lt;/h1&gt;&lt;h2 id=&quot;常用framework&quot;&gt;&lt;a href=&quot;#常用framework&quot; class=&quot;headerlink&quot; title=&quot;常用framework&quot;&gt;&lt;/a&gt;常用framework&lt;/h2&gt;&lt;p&gt;咨询行业是一个古老而成熟的行业了，所以也不奇怪Market Sizing会有很多framework可以采用了。一般有：&lt;/p&gt;
+&lt;h1 id=&quot;如何回答&quot;&gt;&lt;a href=&quot;#如何回答&quot; class=&quot;headerlink&quot; title=&quot;如何回答&quot;&gt;&lt;/a&gt;如何回答&lt;/h1&gt;&lt;h2 id=&quot;善用framework&quot;&gt;&lt;a href=&quot;#善用framework&quot; class=&quot;headerlink&quot; title=&quot;善用framework&quot;&gt;&lt;/a&gt;善用framework&lt;/h2&gt;&lt;p&gt;咨询行业是一个古老而成熟的行业了，所以也不奇怪Market Sizing会有很多framework可以采用了。一般有：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Supply/Demand：供需情况考虑。&lt;/li&gt;
 &lt;li&gt;Top down/Bottom up：top-down是由上至下，而bottom-up由下至上的意思。top = 目的(objective)，bottom = 方法细节(action)。即top-down是由目的开始，推到达到目的方法与其细节。而bottom-up则是由要采取、或是能采取的行动开始思考，最后看这些行动是否能达到目的。【Top-down思考的人会先花很多时间在搞清楚目的与框架上，bottom-up的人则是通常先把要做的事情一个个列出来后，才思考这和原本的目的有什么关系】&lt;/li&gt;
