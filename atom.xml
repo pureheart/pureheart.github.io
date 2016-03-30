@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-03-27T11:42:38.000Z</updated>
+  <updated>2016-03-30T07:03:19.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阿里实习-作业</title>
+    <link href="http://pdzhangyi.com/2016/03/30/%E9%98%BF%E9%87%8C%E5%AE%9E%E4%B9%A0-%E8%A1%8C%E5%AE%B6/"/>
+    <id>http://pdzhangyi.com/2016/03/30/阿里实习-行家/</id>
+    <published>2016-03-30T06:17:16.000Z</published>
+    <updated>2016-03-30T07:03:19.000Z</updated>
+    
+    <content type="html">&lt;p&gt;接上回，面试通过后，离去公司还有一段时间，leader就联系了我，并给我布置了一个作业。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/27639131.jpg&quot; alt=&quot;作业&quot;&gt;&lt;br&gt;这三道题目，最熟悉和亲切的自然还是第三题，基本上就是竞品分析了。&lt;br&gt;废话少说直接附上之前的报告（该竞品分析的框架主要以用户体验要素的五个层面为主）。&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/7198186.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/67581685.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/58307093.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/47520880.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/66919624.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/1309263.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/40129789.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/63255287.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/67087451.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/14919445.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/13595499.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/52842447.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/15551306.jpg&quot; alt=&quot;&quot;&gt;  &lt;/p&gt;
+&lt;p&gt;这算是我第一份竞品分析吧，在写这份分析之前，也把《用户体验要素》这本书略读了一遍，这张图片还是值得思考和学习的：&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-30/87719492.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;如今回过头来再看看这份报告，&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;接上回，面试通过后，离去公司还有一段时间，leader就联系了我，并给我布置了一个作业。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="回忆" scheme="http://pdzhangyi.com/categories/%E5%9B%9E%E5%BF%86/"/>
+    
+    
+      <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
+    
+      <category term="行家，竞品分析" scheme="http://pdzhangyi.com/tags/%E8%A1%8C%E5%AE%B6%EF%BC%8C%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
   
   <entry>
     <title>一说广告</title>
@@ -207,16 +234,16 @@
       <category term="摘录" scheme="http://pdzhangyi.com/categories/%E6%91%98%E5%BD%95/"/>
     
     
-      <category term="产品" scheme="http://pdzhangyi.com/tags/%E4%BA%A7%E5%93%81/"/>
-    
       <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
+    
+      <category term="产品" scheme="http://pdzhangyi.com/tags/%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
   <entry>
     <title>阿里实习-面试</title>
-    <link href="http://pdzhangyi.com/2016/03/20/%E9%98%BF%E9%87%8C%E5%AE%9E%E4%B9%A0-%E8%A1%8C%E5%AE%B6/"/>
-    <id>http://pdzhangyi.com/2016/03/20/阿里实习-行家/</id>
+    <link href="http://pdzhangyi.com/2016/03/20/%E9%98%BF%E9%87%8C%E5%AE%9E%E4%B9%A0-%E9%9D%A2%E8%AF%95/"/>
+    <id>http://pdzhangyi.com/2016/03/20/阿里实习-面试/</id>
     <published>2016-03-20T08:30:17.000Z</published>
     <updated>2016-03-22T15:27:17.000Z</updated>
     
@@ -286,9 +313,9 @@
       <category term="回忆" scheme="http://pdzhangyi.com/categories/%E5%9B%9E%E5%BF%86/"/>
     
     
-      <category term="面试" scheme="http://pdzhangyi.com/tags/%E9%9D%A2%E8%AF%95/"/>
-    
       <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
+    
+      <category term="面试" scheme="http://pdzhangyi.com/tags/%E9%9D%A2%E8%AF%95/"/>
     
   </entry>
   
