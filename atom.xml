@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-04-06T03:07:49.000Z</updated>
+  <updated>2016-04-08T15:47:50.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -16,17 +16,63 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>产品工作趣事之icon大小的异常</title>
+    <link href="http://pdzhangyi.com/2016/04/06/APP%E5%88%87%E5%9B%BE%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/"/>
+    <id>http://pdzhangyi.com/2016/04/06/APP切图那些事儿/</id>
+    <published>2016-04-06T13:59:05.000Z</published>
+    <updated>2016-04-08T15:47:50.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h1&gt;&lt;p&gt;今天和iOS开发老大终于解决了一个一直遇到的奇怪问题：公司mis环境下的词场App iOS版在iPhone6和iPhone6s的尺寸偏大，大到和iPhone6 plus一样的尺寸，可是一旦上传至AppStore，其顶部icon大小又恢复正常了。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;问题分析&quot;&gt;&lt;a href=&quot;#问题分析&quot; class=&quot;headerlink&quot; title=&quot;问题分析&quot;&gt;&lt;/a&gt;问题分析&lt;/h2&gt;&lt;p&gt;问题拆解，总共有两个问题，其一：iPhone6和iPhone6s上的mis环境的词场App的icon尺寸不对，偏大；其二：同样的源代码打包上传至AppStore，再再从AppStore安装，这么一来一回，icon大小正常。&lt;br&gt;猜测：  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;问题一是由于代码层面，判断机型匹配不同尺寸的icon时，误把iPhone6和iPhone6s与大尺寸的icon匹配。&lt;/li&gt;
+&lt;li&gt;问题二，是由于虽然代码层面将iPhone6和iPhone6s与大尺寸的icon匹配，但是AppStore对于App的资源和不同版本之间做了对应的匹配，iPhone6和iPhone6s只下载2X的图片，因此显示正常。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;修复问题&quot;&gt;&lt;a href=&quot;#修复问题&quot; class=&quot;headerlink&quot; title=&quot;修复问题&quot;&gt;&lt;/a&gt;修复问题&lt;/h2&gt;&lt;p&gt;验证：修改了icon与机型匹配代码之后果然mis包也正常了。同时查看iOS9开发文档得知，针对于&lt;strong&gt;&lt;em&gt;Universal App[同一个App适配iPhone和iPad，且只收一份的价格] &lt;/em&gt;&lt;/strong&gt;iOS9推出了App Thinning。&lt;/p&gt;
+&lt;h2 id=&quot;App-Thinning&quot;&gt;&lt;a href=&quot;#App-Thinning&quot; class=&quot;headerlink&quot; title=&quot;App Thinning&quot;&gt;&lt;/a&gt;App Thinning&lt;/h2&gt;&lt;p&gt;WWDC15推出了该功能。App Thinning（应用瘦身）包含三个部分：应用分割（Slicing）、中间代码（Bitcode）和On-demand资源（Resources）  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;应用分割（Slicing）：AppStore根据设备的不同特性来让其下载不同的资源。&lt;/em&gt;&lt;/strong&gt;当开发将iOS9 app包打包上传到AppStore后，苹果编译该资源和可执行文件，然后为每个设备根据其特性[包含显卡性能（原文单词：graphics capabilities）、内存级别、CPU架构、size classes、屏幕 scaling]生成一个特定的可执行文件。用户的设备根据该可执行文件，下载适应与其特性对应的并且它需要使用的内容。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;中间代码（Bitcode，适用于iOS和watchOS）：苹果可以在恰当的时候重新优化我们程序的二进制文件。&lt;/em&gt;&lt;/strong&gt;Bitcode是一个已编译程序（Compiled Program）的中间代码（intermediate representation）可以作为你中间产物，在你提交App到AppStore的时候提交。如果你上传到iTunes Connect里的应用包含bitcode的话，就可以被编译和链接到App Store。加入Bitcode可以让苹果在未来对你的应用二进制（app binary）进行再次优化，而不需要你向App Store提交新版本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;em&gt;On-Demand资源（适用于iOS系统）：应用程序的资源只有在需要的时候下载，并且如果其他资源需要这些空间资源可以被移除。&lt;/em&gt;&lt;/strong&gt;你可以通过关键词和命令的方式进行分组归类的资源，比如图像和音频，App Store会把这些资源放在苹果服务器上并且为你管理下载。On-Demand资源可以加快下载速度并缩小应用包体，提高用户的首次登录体验。比如，一款游戏应用可以根据等级和任务的不同把资源分组，在玩家达到下一个等级或者完成一个任务之后才会用到后续的资源，同样，应用也可以只在用户进行IAP购买的时候提供对应的资源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;显然由于App Thinning，我们上传至AppStore的开心词场App,在下载到用户设备的时候，被重新优化和根据设备的不同自动下载不同的资源了。&lt;/p&gt;
+&lt;h1 id=&quot;机型对应icon尺寸&quot;&gt;&lt;a href=&quot;#机型对应icon尺寸&quot; class=&quot;headerlink&quot; title=&quot;机型对应icon尺寸&quot;&gt;&lt;/a&gt;机型对应icon尺寸&lt;/h1&gt;&lt;p&gt;上面提到，iPhone6和iPhone6 plus的尺寸大小是不一样的概念，我们来看看具体的情况是怎么样的。对于iPhone不同的机型来说，icon的大小分为：1x、2x、3x。这里的1x、2x、3x指基于一定屏幕宽度尺寸的像素数。  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;标注图（以340为宽度尺寸为基准切图）&lt;/li&gt;
+&lt;li&gt;2x切图（以640为宽度尺寸为基准切图）&lt;/li&gt;
+&lt;li&gt;3x切图（以1280为宽度尺寸为基准切图）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;对应的机型如下：&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/57764501.jpg&quot; alt=&quot;切图机型&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/25479515.jpg&quot; alt=&quot;iPhone分辨率&quot;&gt;&lt;/p&gt;
+&lt;p&gt;#参考&lt;br&gt;&lt;a href=&quot;http://www.cocoachina.com/ios/20150612/12135.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;App Thinning介绍&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.luoxiao123.cn/11324.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;APP切图详细规范终极指南&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://blog.csdn.net/cuibo1123/article/details/39405973&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iphone分辨率终极指南(含iphone6/6+)&lt;/a&gt;&lt;br&gt;推荐：&lt;br&gt;&lt;a href=&quot;http://www.ui001.com/chicun/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iPhone、iPad、Android设备尺寸&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h1&gt;&lt;p&gt;今天和iOS开发老大终于解决了一个一直遇到的奇怪问题：公司mis环境下的词场App iOS版在iPhone6和iPhone6s的尺寸偏大，大到和iPhone6 plus一样的尺寸，可是一旦上传至AppStore，其顶部icon大小又恢复正常了。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="必知" scheme="http://pdzhangyi.com/categories/%E5%BF%85%E7%9F%A5/"/>
+    
+    
+      <category term="产品" scheme="http://pdzhangyi.com/tags/%E4%BA%A7%E5%93%81/"/>
+    
+      <category term="UED" scheme="http://pdzhangyi.com/tags/UED/"/>
+    
+  </entry>
+  
+  <entry>
     <title>嗨，你想做产品？</title>
     <link href="http://pdzhangyi.com/2016/04/02/%E5%97%A8%EF%BC%8C%E4%BD%A0%E6%83%B3%E5%81%9A%E4%BA%A7%E5%93%81%EF%BC%9F/"/>
     <id>http://pdzhangyi.com/2016/04/02/嗨，你想做产品？/</id>
     <published>2016-04-02T06:48:36.000Z</published>
-    <updated>2016-04-06T03:07:49.000Z</updated>
+    <updated>2016-04-07T16:16:33.000Z</updated>
     
     <content type="html">&lt;p&gt;最近陆陆续续有学弟学妹咨询我关于如果做产品或者说如何面试入门产品岗。对于这个问题，自己也确实想过很多。有些话，也借此机会和大家聊一聊。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;兴趣和思维&quot;&gt;&lt;a href=&quot;#兴趣和思维&quot; class=&quot;headerlink&quot; title=&quot;兴趣和思维&quot;&gt;&lt;/a&gt;兴趣和思维&lt;/h1&gt;&lt;p&gt;兴趣和思维是一切的起点，一个负责坚持，一个负责执行。&lt;/p&gt;
-&lt;h2 id=&quot;兴趣是起点&quot;&gt;&lt;a href=&quot;#兴趣是起点&quot; class=&quot;headerlink&quot; title=&quot;兴趣是起点&quot;&gt;&lt;/a&gt;兴趣是起点&lt;/h2&gt;&lt;p&gt;如果你对于身旁的事物总有不满，并且偶尔能产生改良它们的idea；&lt;br&gt;如果你是个网虫，天涯、豆瓣、知乎、贴吧、ZEALER总有你风骚的身影；&lt;br&gt;如果你有把自己疯狂的想法落地到实践中，并且做成一个东西的经历；&lt;br&gt;如果你是什么的老残粉，坚持了好些年，一提起它，你就是BB行家；&lt;br&gt;相信我，你绝对有成为产品经历的潜质。既然有了潜质，那就要去挖掘。相较于研发需要有大量的项目经历，产品经理往往更加重视思辨能力和知识储备。 &lt;/p&gt;
-&lt;h2 id=&quot;思维养成之道&quot;&gt;&lt;a href=&quot;#思维养成之道&quot; class=&quot;headerlink&quot; title=&quot;思维养成之道&quot;&gt;&lt;/a&gt;思维养成之道&lt;/h2&gt;&lt;h3 id=&quot;知乎、微博、博客（逛）&quot;&gt;&lt;a href=&quot;#知乎、微博、博客（逛）&quot; class=&quot;headerlink&quot; title=&quot;知乎、微博、博客（逛）&quot;&gt;&lt;/a&gt;知乎、微博、博客（逛）&lt;/h3&gt;&lt;p&gt;知乎是个好地方。虽然渐渐的也水了起来，关键还在于你怎么去使用了。&lt;br&gt;比如：&lt;a href=&quot;https://www.zhihu.com/question/29274695&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;有哪些产品牛人的博客&lt;/a&gt;&lt;br&gt;就像纯银、blues、等产品达人的博客和微博是你必须关注的。&lt;br&gt;最近纯银有关产品模型系列的文章尤其推荐：&lt;a href=&quot;http://www.jianshu.com/p/39472c3f993c&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;十个案例说明什么是产品模型？&lt;/a&gt;&lt;br&gt;个人建议选一两个长期关注，精读他们的每一篇文章，甚至带着里面的思考去尝试着写一写笔记。如果有时间，写的过程是一个很好的思考和整理过程，可以自己建个博客（本博客的搭建教程我就不写了，想要了解的，二十分钟包教包会），慢慢积累。&lt;/p&gt;
-&lt;h3 id=&quot;别再读书少（读）&quot;&gt;&lt;a href=&quot;#别再读书少（读）&quot; class=&quot;headerlink&quot; title=&quot;别再读书少（读）&quot;&gt;&lt;/a&gt;别再读书少（读）&lt;/h3&gt;&lt;p&gt;在逛了知乎各种关于产品的问题，也看了一些面经之后，相信你对于产品经理的职责有了一个基本的概念。这个时候就需要汲取更有营养的东西了。下面推荐几本书，这些书要么是我阅读过的，要么是在我的阅读list里的，要么就是被作者洗脑的。（这份书单会随着我的阅读计划而不断丰富，欢迎互相交流）&lt;/p&gt;
+&lt;h2 id=&quot;兴趣是起点&quot;&gt;&lt;a href=&quot;#兴趣是起点&quot; class=&quot;headerlink&quot; title=&quot;兴趣是起点&quot;&gt;&lt;/a&gt;兴趣是起点&lt;/h2&gt;&lt;p&gt;如果你对于身旁的事物总有不满，并且偶尔能产生改良它们的idea；&lt;br&gt;如果你是个网虫，天涯、豆瓣、知乎、贴吧、ZEALER总有你风骚的身影；&lt;br&gt;如果你有把自己疯狂的想法落地到实践中，并且做成一个东西的经历；&lt;br&gt;如果你是什么的老残粉，坚持了好些年，一提起它，你就是BB行家；&lt;br&gt;相信我，你绝对有成为产品经历的潜质。既然有了潜质，那就要去挖掘。相较于研发需要有大量的项目经历和深入的技术能力，产品经理往往更加重视思辨能力和产品素养的储备。 &lt;/p&gt;
+&lt;h2 id=&quot;思维养成之道&quot;&gt;&lt;a href=&quot;#思维养成之道&quot; class=&quot;headerlink&quot; title=&quot;思维养成之道&quot;&gt;&lt;/a&gt;思维养成之道&lt;/h2&gt;&lt;h3 id=&quot;知乎、微博、博客（逛）&quot;&gt;&lt;a href=&quot;#知乎、微博、博客（逛）&quot; class=&quot;headerlink&quot; title=&quot;知乎、微博、博客（逛）&quot;&gt;&lt;/a&gt;知乎、微博、博客（逛）&lt;/h3&gt;&lt;p&gt;知乎是个好地方。虽然渐渐的也水了起来，关键还在于你怎么去使用了。&lt;br&gt;比如：&lt;a href=&quot;https://www.zhihu.com/question/29274695&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;有哪些产品牛人的博客&lt;/a&gt;&lt;br&gt;就像纯银、blues等产品达人的博客和微博值得一看。&lt;br&gt;最近纯银有关产品模型系列的文章尤其推荐：&lt;a href=&quot;http://www.jianshu.com/p/39472c3f993c&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;十个案例说明什么是产品模型？&lt;/a&gt;&lt;br&gt;个人建议一开始选一两个长期关注，精读他们的每一篇文章，甚至带着里面的思考去尝试着写一写笔记。如果有时间，写的过程是一个很好的思考和整理过程，可以自己建个博客（本博客的搭建教程我就不写了，想要了解的，二十分钟包教包会），慢慢积累。&lt;/p&gt;
+&lt;h3 id=&quot;别再读书少（读）&quot;&gt;&lt;a href=&quot;#别再读书少（读）&quot; class=&quot;headerlink&quot; title=&quot;别再读书少（读）&quot;&gt;&lt;/a&gt;别再读书少（读）&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;在逛了知乎各种关于产品的问题，也看了一些面经之后&lt;/em&gt;&lt;/strong&gt;，相信你对于产品经理的职责有了一个基本的概念。这个时候就需要汲取更有体系的东西：书籍。下面推荐几本书，这些书要么是我阅读过的，要么是在我的阅读list里的，要么就是被作者洗脑的。（这份书单会随着我的阅读计划而不断丰富，欢迎互相交流）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;了解行业：互联网风起云涌十几年，行业精彩故事的了解会给你带来更多的兴趣&lt;/p&gt;
 &lt;ul&gt;
@@ -48,7 +94,7 @@
 &lt;li&gt;&lt;p&gt;产品设计：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;《don’t make me think》：可用性设计的入门参考书&lt;/li&gt;
-&lt;li&gt;《用户体验的要素》&lt;/li&gt;
+&lt;li&gt;《用户体验的要素》：很好的互联网产品体验分析框架&lt;/li&gt;
 &lt;li&gt;《简约至上：交互设计四策略》&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -74,7 +120,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&quot;实践出真知（做）&quot;&gt;&lt;a href=&quot;#实践出真知（做）&quot; class=&quot;headerlink&quot; title=&quot;实践出真知（做）&quot;&gt;&lt;/a&gt;实践出真知（做）&lt;/h1&gt;&lt;h2 id=&quot;项目实践&quot;&gt;&lt;a href=&quot;#项目实践&quot; class=&quot;headerlink&quot; title=&quot;项目实践&quot;&gt;&lt;/a&gt;项目实践&lt;/h2&gt;&lt;p&gt;别说你已经没有时间和机会去做一个项目了，只要你肯花时间和精力，总能找到志同道合的朋友和你一起做一个小众却又使用的小产品：XXX校园助手。实在不济，大三课时有专门的实训的，我们院大三上学期会有一个j2ee的实训，这个时候你可以把他当成一个产品去对待，而不仅仅是技术性的工程。你需要考量你的用户群体是什么，针对他们的特点，你做了什么专门设计，甚至还可以加入运营推广的思维。&lt;br&gt;这种项目本身能给你带来的用户量和商业价值可以忽略不计，有时候影响力也不够，但是在你本身对于产品思维有一定认知一后，再结合到你的产品实现的过程中，这样子的意义几乎可以成为你面试最好的一个经历来分析、挖掘和思考。（往往面试官会对你的某一个项目或者事物感兴趣，而这一两个原因也许就是你面试法宝）&lt;br&gt;如果你时间还长，要记住产品经理本身是一种生活态度，善于发现生活中的细节，并且着手去完善，善于站在使用者的角度去思考问题。软院本身的各种软件创新大赛、服务外包大赛就是很好的锻炼机会，在这样子的比赛里，你可以找到几个靠谱的队友为你做技术支持，自己心无旁骛的专心的去思考你的idea，你的解决方案，你的产品架构，在这样子的一个队伍里，你几乎就是一个产品。&lt;/p&gt;
+&lt;h1 id=&quot;实践出真知（做）&quot;&gt;&lt;a href=&quot;#实践出真知（做）&quot; class=&quot;headerlink&quot; title=&quot;实践出真知（做）&quot;&gt;&lt;/a&gt;实践出真知（做）&lt;/h1&gt;&lt;h2 id=&quot;项目实践&quot;&gt;&lt;a href=&quot;#项目实践&quot; class=&quot;headerlink&quot; title=&quot;项目实践&quot;&gt;&lt;/a&gt;项目实践&lt;/h2&gt;&lt;p&gt;纸上得来终觉浅，绝知此事要躬行。别说你已经没有时间和机会去做一个项目了，只要你肯花时间和精力，总能找到志同道合的朋友和你一起做一个小众却又实用的小产品：XXX校园助手。实在不济，大三课时有专门的实训的，我们院大三上学期会有一个j2ee的实训，这个时候你可以把实训的作品当成一个产品去对待，而不仅仅是技术性的工程。对应的，这个作品解决的需求是什么，它的用户群体有哪些，针对他们的特点，你做了什么专门设计，甚至还可以加入运营推广的思维。&lt;br&gt;这种项目本身能给你带来的用户量和商业价值可以忽略不计，有时候影响力也不够，但是在你本身对于产品思维有一定认知一后，再结合到你的产品实现的过程中，这样子的意义几乎可以成为你面试最好的一个经历来分析、挖掘和思考。（往往面试官会对你的某一个项目或者事物感兴趣，而这一两个面试官的兴趣点很有可能就是你成功法宝）&lt;br&gt;如果你还小，要记住产品经理本身是一种生活态度，善于发现生活中的细节，并且着手去完善，善于站在使用者的角度去思考问题。软院本身的各种软件创新大赛、服务外包大赛就是很好的锻炼机会，在这样子的比赛里，你可以找到几个靠谱的队友为你做技术支持，自己心无旁骛的去思考你的idea，你的解决方案，你的产品架构，在这样子的一个队伍里，你几乎就是一个产品。&lt;/p&gt;
 &lt;h2 id=&quot;分析体验文档报告（写）&quot;&gt;&lt;a href=&quot;#分析体验文档报告（写）&quot; class=&quot;headerlink&quot; title=&quot;分析体验文档报告（写）&quot;&gt;&lt;/a&gt;分析体验文档报告（写）&lt;/h2&gt;&lt;p&gt;既然没有时间和技术去实现项目的话，撰写产品的体验报告和竞品分析报告几乎是最好的方式了。通过这些文档的撰写，既能梳理和培养自己成套的产品观念。对于产品的各色架构、功能的了解以及需求的分析也会加深你对于产品的思考。&lt;br&gt;如何写呢？摸着石头过河，现学现卖，先去看看别人是如何撰写的，大概的框架和元素有哪些？后续我会不断分享一些自己曾经写过的分析报告。当然如果你有写好的文档也可以与我分享探讨，欢迎交流~&lt;/p&gt;
 &lt;h1 id=&quot;机会是需要寻找的&quot;&gt;&lt;a href=&quot;#机会是需要寻找的&quot; class=&quot;headerlink&quot; title=&quot;机会是需要寻找的&quot;&gt;&lt;/a&gt;机会是需要寻找的&lt;/h1&gt;&lt;p&gt;当你有了一定的产品知识储备和一两个实际的项目经历再加上一份有价值or深度的产品体验分析报告再加上一个你热爱且足够牛逼的细分领域，然后尽情的寻找机会吧。校招是传统的路径了，那些大牛门的微博、微信等都可以想办法骚扰，各厂的学长学姐也是绝佳的内推伯乐，再加上各种校招内推公众号，总有一款适合你。 &lt;/p&gt;
 &lt;p&gt;===========================吐槽分割线==============================  &lt;/p&gt;
@@ -132,7 +178,7 @@
     <link href="http://pdzhangyi.com/2016/03/26/%E7%9B%88%E5%88%A9%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8D%96%E5%B9%BF%E5%91%8A/"/>
     <id>http://pdzhangyi.com/2016/03/26/盈利模式之卖广告/</id>
     <published>2016-03-25T18:27:59.000Z</published>
-    <updated>2016-03-27T11:42:38.000Z</updated>
+    <updated>2016-04-06T14:14:49.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;iframe height=&quot;420&quot; width=&quot;672&quot; src=&quot;http://player.youku.com/embed/XMTQ1ODk0NDY3Mg==&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;从“借问酒家何处有，牧童遥指杏花村”心中浮现的&lt;a href=&quot;http://baike.baidu.com/link?url=Iss5XMT7L9GUpbBB4uUkqWUWKRm6JVGmGW8L0qYNpm1lDZ9_8YJ_2EIioEnRrE3u88wTVJwsp4d_5NJJ0Aczeq&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;酒望&lt;/a&gt;，到洗脑式的电视媒体广告“脑白金、旺旺”等，再到如今移动互联网的多平台、多屏幕、多互动的广告营销时代，广告的发展和体验都发生质了变化。而广告主本身的强大需求给了互联网免费的产品体验以强大的生存机会和变现能力。个人甚至认为广告是互联网+最好的创新典范之一。那为何广告能与互联网如此有缘呢？这里面首先就需要简单的了解一下广告的前世今生。&lt;/p&gt;
 &lt;h1 id=&quot;广告&quot;&gt;&lt;a href=&quot;#广告&quot; class=&quot;headerlink&quot; title=&quot;广告&quot;&gt;&lt;/a&gt;广告&lt;/h1&gt;&lt;blockquote&gt;
@@ -319,9 +365,9 @@
       <category term="摘录" scheme="http://pdzhangyi.com/categories/%E6%91%98%E5%BD%95/"/>
     
     
-      <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
-    
       <category term="产品" scheme="http://pdzhangyi.com/tags/%E4%BA%A7%E5%93%81/"/>
+    
+      <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
     
   </entry>
   
