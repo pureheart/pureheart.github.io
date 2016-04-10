@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://pdzhangyi.com/2016/04/08/%E5%97%A8%EF%BC%8C%E4%BD%A0%E6%83%B3%E5%81%9A%E4%BA%A7%E5%93%81%EF%BC%9F%EF%BC%88%E4%B8%8B%EF%BC%89/</loc>
+    <lastmod>2016-04-10T06:54:19.000Z</lastmod>
+    <data>
+        <display>
+        <title>嗨，你想做产品？（下）</title>
+        <pubTime>2016-04-08T15:57:36.000Z</pubTime>
+        
+        <tag>面试</tag>
+         
+        <tag>应届生</tag>
+         
+         
+           
+             
+              <breadCrumb title="闲聊" url="http://pdzhangyi.com/categories/%E9%97%B2%E8%81%8A/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://pdzhangyi.com/2016/03/16/%E7%9C%8B%EF%BC%8C%E8%BF%99%E4%B8%96%E7%95%8C%EF%BC%81/</loc>
     <lastmod>2016-04-10T06:52:21.000Z</lastmod>
     <data>
@@ -43,28 +65,6 @@
            
              
               <breadCrumb title="必知" url="http://pdzhangyi.com/categories/%E5%BF%85%E7%9F%A5/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://pdzhangyi.com/2016/04/08/%E5%97%A8%EF%BC%8C%E4%BD%A0%E6%83%B3%E5%81%9A%E4%BA%A7%E5%93%81%EF%BC%9F%EF%BC%88%E4%B8%8B%EF%BC%89/</loc>
-    <lastmod>2016-04-08T15:57:46.000Z</lastmod>
-    <data>
-        <display>
-        <title>嗨，你想做产品？（上）</title>
-        <pubTime>2016-04-08T15:57:36.000Z</pubTime>
-        
-        <tag>面试</tag>
-         
-        <tag>应届生</tag>
-         
-         
-           
-             
-              <breadCrumb title="闲聊" url="http://pdzhangyi.com/categories/%E9%97%B2%E8%81%8A/"/>
           
         </display>
     </data>
@@ -208,9 +208,9 @@
         <title>阿里实习-面试</title>
         <pubTime>2016-03-20T08:30:17.000Z</pubTime>
         
-        <tag>阿里</tag>
-         
         <tag>面试</tag>
+         
+        <tag>阿里</tag>
          
          
            
