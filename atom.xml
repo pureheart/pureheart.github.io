@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-04-08T15:47:50.000Z</updated>
+  <updated>2016-04-08T15:57:46.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -16,11 +16,94 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>嗨，你想做产品？（上）</title>
+    <link href="http://pdzhangyi.com/2016/04/08/%E5%97%A8%EF%BC%8C%E4%BD%A0%E6%83%B3%E5%81%9A%E4%BA%A7%E5%93%81%EF%BC%9F%EF%BC%88%E4%B8%8B%EF%BC%89/"/>
+    <id>http://pdzhangyi.com/2016/04/08/嗨，你想做产品？（下）/</id>
+    <published>2016-04-08T15:57:36.000Z</published>
+    <updated>2016-04-08T15:57:46.000Z</updated>
+    
+    <content type="html">&lt;p&gt;最近陆陆续续有学弟学妹咨询我关于如果做产品或者说如何面试入门产品岗。对于这个问题，自己也确实想过很多。有些话，也借此机会和大家聊一聊。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;兴趣和思维&quot;&gt;&lt;a href=&quot;#兴趣和思维&quot; class=&quot;headerlink&quot; title=&quot;兴趣和思维&quot;&gt;&lt;/a&gt;兴趣和思维&lt;/h1&gt;&lt;p&gt;兴趣和思维是一切的起点，一个负责坚持，一个负责执行。&lt;/p&gt;
+&lt;h2 id=&quot;兴趣是起点&quot;&gt;&lt;a href=&quot;#兴趣是起点&quot; class=&quot;headerlink&quot; title=&quot;兴趣是起点&quot;&gt;&lt;/a&gt;兴趣是起点&lt;/h2&gt;&lt;p&gt;如果你对于身旁的事物总有不满，并且偶尔能产生改良它们的idea；&lt;br&gt;如果你是个网虫，天涯、豆瓣、知乎、贴吧、ZEALER总有你风骚的身影；&lt;br&gt;如果你有把自己疯狂的想法落地到实践中，并且做成一个东西的经历；&lt;br&gt;如果你是什么的老残粉，坚持了好些年，一提起它，你就是BB行家；&lt;br&gt;相信我，你绝对有成为产品经历的潜质。既然有了潜质，那就要去挖掘。相较于研发需要有大量的项目经历和深入的技术能力，产品经理往往更加重视思辨能力和产品素养的储备。 &lt;/p&gt;
+&lt;h2 id=&quot;思维养成之道&quot;&gt;&lt;a href=&quot;#思维养成之道&quot; class=&quot;headerlink&quot; title=&quot;思维养成之道&quot;&gt;&lt;/a&gt;思维养成之道&lt;/h2&gt;&lt;h3 id=&quot;知乎、微博、博客（逛）&quot;&gt;&lt;a href=&quot;#知乎、微博、博客（逛）&quot; class=&quot;headerlink&quot; title=&quot;知乎、微博、博客（逛）&quot;&gt;&lt;/a&gt;知乎、微博、博客（逛）&lt;/h3&gt;&lt;p&gt;知乎是个好地方。虽然渐渐的也水了起来，关键还在于你怎么去使用了。&lt;br&gt;比如：&lt;a href=&quot;https://www.zhihu.com/question/29274695&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;有哪些产品牛人的博客&lt;/a&gt;&lt;br&gt;就像纯银、blues等产品达人的博客和微博值得一看。&lt;br&gt;最近纯银有关产品模型系列的文章尤其推荐：&lt;a href=&quot;http://www.jianshu.com/p/39472c3f993c&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;十个案例说明什么是产品模型？&lt;/a&gt;&lt;br&gt;个人建议一开始选一两个长期关注，精读他们的每一篇文章，甚至带着里面的思考去尝试着写一写笔记。如果有时间，写的过程是一个很好的思考和整理过程，可以自己建个博客（本博客的搭建教程我就不写了，想要了解的，二十分钟包教包会），慢慢积累。&lt;/p&gt;
+&lt;h3 id=&quot;别再读书少（读）&quot;&gt;&lt;a href=&quot;#别再读书少（读）&quot; class=&quot;headerlink&quot; title=&quot;别再读书少（读）&quot;&gt;&lt;/a&gt;别再读书少（读）&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;在逛了知乎各种关于产品的问题，也看了一些面经之后&lt;/em&gt;&lt;/strong&gt;，相信你对于产品经理的职责有了一个基本的概念。这个时候就需要汲取更有体系的东西：书籍。下面推荐几本书，这些书要么是我阅读过的，要么是在我的阅读list里的，要么就是被作者洗脑的。（这份书单会随着我的阅读计划而不断丰富，欢迎互相交流）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;了解行业：互联网风起云涌十几年，行业精彩故事的了解会给你带来更多的兴趣&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《浪潮之巅》：信息革命数十年，潮起潮落，几乎能了解到计算机行业相关顶级巨头的兴衰史&lt;/li&gt;
+&lt;li&gt;《周鸿祎自述：我的互联网方法论》：老周免费杀毒的首创，颠覆式创新的摇旗呐喊者的欢呼&lt;/li&gt;
+&lt;li&gt;《参与感》：书中一些真实的细节，让你知道如何在大的战略下，用细节引领市场的欢呼&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;职位本身：了解产品经理干些什么，有哪些基本知识可以了解：运营、设计、用户体验&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《启示录》：产品经理的工作思想指南&lt;/li&gt;
+&lt;li&gt;《人人都是产品经理》：入门教刊级别的书，阿里风格浓厚&lt;/li&gt;
+&lt;li&gt;《产品经理的第一本书》和《产品经理的第二本书》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;===========================进阶篇==============================   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;产品设计：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《don’t make me think》：可用性设计的入门参考书&lt;/li&gt;
+&lt;li&gt;《用户体验的要素》：很好的互联网产品体验分析框架&lt;/li&gt;
+&lt;li&gt;《简约至上：交互设计四策略》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;产品需求：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《淘宝产品十年事》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;思维逻辑：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《思考快与慢》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;用户心理：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《乌合之众：大众心理学》&lt;/li&gt;
+&lt;li&gt;《影响力》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;运营营销：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《增长黑客》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;实践出真知（做）&quot;&gt;&lt;a href=&quot;#实践出真知（做）&quot; class=&quot;headerlink&quot; title=&quot;实践出真知（做）&quot;&gt;&lt;/a&gt;实践出真知（做）&lt;/h1&gt;&lt;h2 id=&quot;项目实践&quot;&gt;&lt;a href=&quot;#项目实践&quot; class=&quot;headerlink&quot; title=&quot;项目实践&quot;&gt;&lt;/a&gt;项目实践&lt;/h2&gt;&lt;p&gt;纸上得来终觉浅，绝知此事要躬行。别说你已经没有时间和机会去做一个项目了，只要你肯花时间和精力，总能找到志同道合的朋友和你一起做一个小众却又实用的小产品：XXX校园助手。实在不济，大三课时有专门的实训的，我们院大三上学期会有一个j2ee的实训，这个时候你可以把实训的作品当成一个产品去对待，而不仅仅是技术性的工程。对应的，这个作品解决的需求是什么，它的用户群体有哪些，针对他们的特点，你做了什么专门设计，甚至还可以加入运营推广的思维。&lt;br&gt;这种项目本身能给你带来的用户量和商业价值可以忽略不计，有时候影响力也不够，但是在你本身对于产品思维有一定认知一后，再结合到你的产品实现的过程中，这样子的意义几乎可以成为你面试最好的一个经历来分析、挖掘和思考。（往往面试官会对你的某一个项目或者事物感兴趣，而这一两个面试官的兴趣点很有可能就是你成功法宝）&lt;br&gt;如果你还小，要记住产品经理本身是一种生活态度，善于发现生活中的细节，并且着手去完善，善于站在使用者的角度去思考问题。软院本身的各种软件创新大赛、服务外包大赛就是很好的锻炼机会，在这样子的比赛里，你可以找到几个靠谱的队友为你做技术支持，自己心无旁骛的去思考你的idea，你的解决方案，你的产品架构，在这样子的一个队伍里，你几乎就是一个产品。&lt;/p&gt;
+&lt;h2 id=&quot;分析体验文档报告（写）&quot;&gt;&lt;a href=&quot;#分析体验文档报告（写）&quot; class=&quot;headerlink&quot; title=&quot;分析体验文档报告（写）&quot;&gt;&lt;/a&gt;分析体验文档报告（写）&lt;/h2&gt;&lt;p&gt;既然没有时间和技术去实现项目的话，撰写产品的体验报告和竞品分析报告几乎是最好的方式了。通过这些文档的撰写，既能梳理和培养自己成套的产品观念。对于产品的各色架构、功能的了解以及需求的分析也会加深你对于产品的思考。&lt;br&gt;如何写呢？摸着石头过河，现学现卖，先去看看别人是如何撰写的，大概的框架和元素有哪些？后续我会不断分享一些自己曾经写过的分析报告。当然如果你有写好的文档也可以与我分享探讨，欢迎交流~&lt;/p&gt;
+&lt;h1 id=&quot;机会是需要寻找的&quot;&gt;&lt;a href=&quot;#机会是需要寻找的&quot; class=&quot;headerlink&quot; title=&quot;机会是需要寻找的&quot;&gt;&lt;/a&gt;机会是需要寻找的&lt;/h1&gt;&lt;p&gt;当你有了一定的产品知识储备和一两个实际的项目经历再加上一份有价值or深度的产品体验分析报告再加上一个你热爱且足够牛逼的细分领域，然后尽情的寻找机会吧。校招是传统的路径了，那些大牛门的微博、微信等都可以想办法骚扰，各厂的学长学姐也是绝佳的内推伯乐，再加上各种校招内推公众号，总有一款适合你。 &lt;/p&gt;
+&lt;p&gt;===========================吐槽分割线==============================  &lt;/p&gt;
+&lt;h1 id=&quot;产品狗啥X&quot;&gt;&lt;a href=&quot;#产品狗啥X&quot; class=&quot;headerlink&quot; title=&quot;产品狗啥X&quot;&gt;&lt;/a&gt;产品狗啥X&lt;/h1&gt;&lt;p&gt;一说到产品，特别是应届生产品，没有那个开发心里不鄙视的。&lt;br&gt;第一没有技术的硬性要求，第二没有一个可量化指标的要求，产品岗位几乎成了所有想进入互联网行业的应届生首选。事实也确实如此，不拘一格降人才的产品岗位涌现了很多非计算机专业的产品大牛（苏杰便是其一）。&lt;br&gt;然而我是来泼冷水的，如果你单纯是因为技术没学好，保研没机会，考研没毅力，公务员没兴趣，创业没勇气，我建议你出门左拐，街旁二完小回炉重造谢谢！开玩笑的，但是严肃来说，产品经理其实需要具备的素质一点也不比其他岗位低。说夸张点，产品经理需要具有的产品思维甚至是当下大学环境里最难具备又最稀缺的品质，有时候真就是天赋。而作为软件工程专业的你（或者其他计算机相关专业）对于技术思路和框架这本身的了解就应该是你的长处，而不应该是你的劣势，废话一句，产品经理懂技术很必要！！！  &lt;/p&gt;
+&lt;h1 id=&quot;悲哀之下必有万幸&quot;&gt;&lt;a href=&quot;#悲哀之下必有万幸&quot; class=&quot;headerlink&quot; title=&quot;悲哀之下必有万幸&quot;&gt;&lt;/a&gt;悲哀之下必有万幸&lt;/h1&gt;&lt;p&gt;有时候想想其实是环境使然，是制度使然，最悲哀的就是上大学时，稀里糊涂选了专业，到了大学毕业也还不知道自己喜欢什么，想做什么。失去了曾经的包分配，幸运的是，至少你还有一个看得过去的学历，还能有努力一搏的时间和机会。回首校招之旅，你需要准备的时间真用不长，只要你足够努力，一个月完完全全有希望进入到自己想去的公司。&lt;/p&gt;
+&lt;h1 id=&quot;后记&quot;&gt;&lt;a href=&quot;#后记&quot; class=&quot;headerlink&quot; title=&quot;后记&quot;&gt;&lt;/a&gt;后记&lt;/h1&gt;&lt;p&gt;又到一年校招时，如果你还在纠结自己该准备什么岗位的面试，抑或纠结于读不读研，其实你还应该庆幸，属于你的浪潮才刚开始。而最失落的莫过于赶潮时，潮已落。&lt;br&gt;与你来说，从春招开始，到处都是风口，而你要做的就是站在风口的猪。&lt;br&gt;总听到人说，“我”不会技术，也没有别的兴趣，还喜欢BB，产品经理不能再适合“我”了。每次听到这个，既觉得失落，又觉得失望，有时候甚至是惭愧。这几年，产品经理的热潮确实一浪高过一浪（大众创业更是将产品经理推向制高点），表面看起来没有任何门槛的它，几乎成了计算机相关专业学生面试的首选。然而恰恰是这种现象，造就了这个行业的门槛普遍较高，庞大的基数下面，诞生的宝贝产品没有几个。&lt;br&gt;纯银常说，产品需要天赋。而我想说，产品岗位的门槛在门内。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近陆陆续续有学弟学妹咨询我关于如果做产品或者说如何面试入门产品岗。对于这个问题，自己也确实想过很多。有些话，也借此机会和大家聊一聊。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="闲聊" scheme="http://pdzhangyi.com/categories/%E9%97%B2%E8%81%8A/"/>
+    
+    
+      <category term="面试" scheme="http://pdzhangyi.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+      <category term="应届生" scheme="http://pdzhangyi.com/tags/%E5%BA%94%E5%B1%8A%E7%94%9F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>产品工作趣事之icon大小的异常</title>
-    <link href="http://pdzhangyi.com/2016/04/06/APP%E5%88%87%E5%9B%BE%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/"/>
-    <id>http://pdzhangyi.com/2016/04/06/APP切图那些事儿/</id>
+    <link href="http://pdzhangyi.com/2016/04/06/%E4%BA%A7%E5%93%81%E5%B7%A5%E4%BD%9C%E8%B6%A3%E4%BA%8B%E4%B9%8Bicon%E5%A4%A7%E5%B0%8F%E7%9A%84%E5%BC%82%E5%B8%B8/"/>
+    <id>http://pdzhangyi.com/2016/04/06/产品工作趣事之icon大小的异常/</id>
     <published>2016-04-06T13:59:05.000Z</published>
-    <updated>2016-04-08T15:47:50.000Z</updated>
+    <updated>2016-04-10T05:56:07.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h1&gt;&lt;p&gt;今天和iOS开发老大终于解决了一个一直遇到的奇怪问题：公司mis环境下的词场App iOS版在iPhone6和iPhone6s的尺寸偏大，大到和iPhone6 plus一样的尺寸，可是一旦上传至AppStore，其顶部icon大小又恢复正常了。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;问题分析&quot;&gt;&lt;a href=&quot;#问题分析&quot; class=&quot;headerlink&quot; title=&quot;问题分析&quot;&gt;&lt;/a&gt;问题分析&lt;/h2&gt;&lt;p&gt;问题拆解，总共有两个问题，其一：iPhone6和iPhone6s上的mis环境的词场App的icon尺寸不对，偏大；其二：同样的源代码打包上传至AppStore，再再从AppStore安装，这么一来一回，icon大小正常。&lt;br&gt;猜测：  &lt;/p&gt;
@@ -42,7 +125,7 @@
 &lt;li&gt;2x切图（以640为宽度尺寸为基准切图）&lt;/li&gt;
 &lt;li&gt;3x切图（以1280为宽度尺寸为基准切图）&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;对应的机型如下：&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/57764501.jpg&quot; alt=&quot;切图机型&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/25479515.jpg&quot; alt=&quot;iPhone分辨率&quot;&gt;&lt;/p&gt;
+&lt;p&gt;对应的机型如下：&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/57764501.jpg&quot; alt=&quot;切图机型&quot;&gt;&lt;br&gt;点和物理像素的区别：&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/25479515.jpg&quot; alt=&quot;iPhone分辨率&quot;&gt;&lt;/p&gt;
 &lt;p&gt;#参考&lt;br&gt;&lt;a href=&quot;http://www.cocoachina.com/ios/20150612/12135.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;App Thinning介绍&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.luoxiao123.cn/11324.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;APP切图详细规范终极指南&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://blog.csdn.net/cuibo1123/article/details/39405973&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iphone分辨率终极指南(含iphone6/6+)&lt;/a&gt;&lt;br&gt;推荐：&lt;br&gt;&lt;a href=&quot;http://www.ui001.com/chicun/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iPhone、iPad、Android设备尺寸&lt;/a&gt;&lt;/p&gt;
 </content>
     
@@ -59,14 +142,16 @@
     
       <category term="UED" scheme="http://pdzhangyi.com/tags/UED/"/>
     
+      <category term="沪江" scheme="http://pdzhangyi.com/tags/%E6%B2%AA%E6%B1%9F/"/>
+    
   </entry>
   
   <entry>
-    <title>嗨，你想做产品？</title>
-    <link href="http://pdzhangyi.com/2016/04/02/%E5%97%A8%EF%BC%8C%E4%BD%A0%E6%83%B3%E5%81%9A%E4%BA%A7%E5%93%81%EF%BC%9F/"/>
-    <id>http://pdzhangyi.com/2016/04/02/嗨，你想做产品？/</id>
+    <title>嗨，你想做产品？（上）</title>
+    <link href="http://pdzhangyi.com/2016/04/02/%E5%97%A8%EF%BC%8C%E4%BD%A0%E6%83%B3%E5%81%9A%E4%BA%A7%E5%93%81%EF%BC%9F%EF%BC%88%E4%B8%8A%EF%BC%89/"/>
+    <id>http://pdzhangyi.com/2016/04/02/嗨，你想做产品？（上）/</id>
     <published>2016-04-02T06:48:36.000Z</published>
-    <updated>2016-04-07T16:16:33.000Z</updated>
+    <updated>2016-04-08T15:57:09.000Z</updated>
     
     <content type="html">&lt;p&gt;最近陆陆续续有学弟学妹咨询我关于如果做产品或者说如何面试入门产品岗。对于这个问题，自己也确实想过很多。有些话，也借此机会和大家聊一聊。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;兴趣和思维&quot;&gt;&lt;a href=&quot;#兴趣和思维&quot; class=&quot;headerlink&quot; title=&quot;兴趣和思维&quot;&gt;&lt;/a&gt;兴趣和思维&lt;/h1&gt;&lt;p&gt;兴趣和思维是一切的起点，一个负责坚持，一个负责执行。&lt;/p&gt;
@@ -444,9 +529,9 @@
       <category term="回忆" scheme="http://pdzhangyi.com/categories/%E5%9B%9E%E5%BF%86/"/>
     
     
-      <category term="面试" scheme="http://pdzhangyi.com/tags/%E9%9D%A2%E8%AF%95/"/>
-    
       <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
+    
+      <category term="面试" scheme="http://pdzhangyi.com/tags/%E9%9D%A2%E8%AF%95/"/>
     
   </entry>
   
@@ -475,13 +560,17 @@
   </entry>
   
   <entry>
-    <title>看，这世界！</title>
+    <title>看，这世界！【有福利】</title>
     <link href="http://pdzhangyi.com/2016/03/16/%E7%9C%8B%EF%BC%8C%E8%BF%99%E4%B8%96%E7%95%8C%EF%BC%81/"/>
     <id>http://pdzhangyi.com/2016/03/16/看，这世界！/</id>
     <published>2016-03-16T14:08:17.000Z</published>
-    <updated>2016-03-20T05:43:11.000Z</updated>
+    <updated>2016-04-10T06:52:21.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/85942787.jpg&quot; class=&quot;full-image&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/45580768.jpg&quot; alt=&quot;太空遥望&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/53806184.jpg&quot; alt=&quot;盘山公路&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/82668753.jpg&quot; alt=&quot;大风大浪&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/92549245.jpg&quot; alt=&quot;银装硕果&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/28437693.jpg&quot; alt=&quot;冰天雪地&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/16158248.jpg&quot; alt=&quot;大海天际&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/11426985.jpg&quot; alt=&quot;彩云之南&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/39891775.jpg&quot; alt=&quot;晨光夕阳&quot;&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/85942787.jpg&quot; class=&quot;full-image&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/45580768.jpg&quot; alt=&quot;太空遥望&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/53806184.jpg&quot; alt=&quot;盘山公路&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/82668753.jpg&quot; alt=&quot;大风大浪&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/92549245.jpg&quot; alt=&quot;银装硕果&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/28437693.jpg&quot; alt=&quot;冰天雪地&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/16158248.jpg&quot; alt=&quot;大海天际&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/11426985.jpg&quot; alt=&quot;彩云之南&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-3-16/39891775.jpg&quot; alt=&quot;晨光夕阳&quot;&gt;  &lt;/p&gt;
+&lt;p&gt;美吧？世界总有新奇。&lt;br&gt;既然你都看到了最后，福利来了~推荐几个高清的图片素材网站：&lt;br&gt;&lt;strong&gt;&lt;em&gt;我常用的：&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;unsplash-高精度摄影图片，无版权&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://pixabay.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;pixabay-高清，无版权&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.lifeofpix.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;lifeofpix-高精度视频和图片，无版权&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://foodiesfeed.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;foodiesfeed-主打美食，吃货的世界，无版权&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.gratisography.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;gratisography-无版权&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://sopall.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;sopall-悦阅&lt;/a&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;其他：&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;http://deathtothestockphoto.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;deathtothestockphoto&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://nos.twnsnd.co/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;twnsnd-老照片，无版权&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://500px.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;500px&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.behance.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;behance&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.cutestpaw.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;cutestpaw-萌宠&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://dribbble.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;dribbble&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://littlevisuals.co/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;littlevisuals&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;当然还有几个著名的：&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;http://www.pinterest.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Pinterest&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://huaban.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;花瓣&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;切图资源网站：&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;http://www.easyicon.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;icon神器-easyicon&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.iconfont.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;阿里巴巴矢量图标-iconfont&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://thenounproject.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;thenounproject&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-10/86361599.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-10/73595856.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
