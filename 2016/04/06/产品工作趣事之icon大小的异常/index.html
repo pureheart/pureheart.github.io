@@ -67,7 +67,8 @@
 <meta property="og:description" content="问题今天和iOS开发老大终于解决了一个一直遇到的奇怪问题：公司mis环境下的词场App iOS版在iPhone6和iPhone6s的尺寸偏大，大到和iPhone6 plus一样的尺寸，可是一旦上传至AppStore，其顶部icon大小又恢复正常了。">
 <meta property="og:image" content="http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/57764501.jpg">
 <meta property="og:image" content="http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/25479515.jpg">
-<meta property="og:updated_time" content="2016-04-10T05:56:07.000Z">
+<meta property="og:image" content="http://7xrxdv.com1.z0.glb.clouddn.com/16-4-13/38489795.jpg">
+<meta property="og:updated_time" content="2016-04-13T11:39:47.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="产品工作趣事之icon大小的异常">
 <meta name="twitter:description" content="问题今天和iOS开发老大终于解决了一个一直遇到的奇怪问题：公司mis环境下的词场App iOS版在iPhone6和iPhone6s的尺寸偏大，大到和iPhone6 plus一样的尺寸，可是一旦上传至AppStore，其顶部icon大小又恢复正常了。">
@@ -372,7 +373,8 @@
 <li>3x切图（以1280为宽度尺寸为基准切图）</li>
 </ol>
 <p>对应的机型如下：<br><img src="http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/57764501.jpg" alt="切图机型"><br>点和物理像素的区别：<br><img src="http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/25479515.jpg" alt="iPhone分辨率"></p>
-<p>#参考<br><a href="http://www.cocoachina.com/ios/20150612/12135.html" target="_blank" rel="external">App Thinning介绍</a><br><a href="http://www.luoxiao123.cn/11324.html" target="_blank" rel="external">APP切图详细规范终极指南</a><br><a href="http://blog.csdn.net/cuibo1123/article/details/39405973" target="_blank" rel="external">iphone分辨率终极指南(含iphone6/6+)</a><br>推荐：<br><a href="http://www.ui001.com/chicun/" target="_blank" rel="external">iPhone、iPad、Android设备尺寸</a></p>
+<h1 id="PPI"><a href="#PPI" class="headerlink" title="PPI"></a>PPI</h1><p>图像分辨率（ImageResolution）指图像中存储的信息量，这种分辨率有多种衡量方法，典型的是以每英寸的像素数（PPI，pixel per inch）来衡量。计算公式：<br><img src="http://7xrxdv.com1.z0.glb.clouddn.com/16-4-13/38489795.jpg" alt="计算公式"><br>拿iPhone6来说，其分别率是1334*750，屏幕尺寸是4.7英寸，可计算得到325.6ppi，也就是所谓的Retina屏幕。如果对于英寸感知不明感，换算可以得到12.8像素/毫米。</p>
+<h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p><a href="http://www.cocoachina.com/ios/20150612/12135.html" target="_blank" rel="external">App Thinning介绍</a><br><a href="http://www.luoxiao123.cn/11324.html" target="_blank" rel="external">APP切图详细规范终极指南</a><br><a href="http://blog.csdn.net/cuibo1123/article/details/39405973" target="_blank" rel="external">iphone分辨率终极指南(含iphone6/6+)</a><br>推荐：<br><a href="http://www.ui001.com/chicun/" target="_blank" rel="external">iPhone、iPad、Android设备尺寸</a></p>
 
       
     </div>
@@ -509,7 +511,7 @@
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/archives">
-              <span class="site-state-item-count">11</span>
+              <span class="site-state-item-count">13</span>
               <span class="site-state-item-name">日志</span>
             </a>
           </div>
@@ -608,7 +610,7 @@
               
             
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#问题"><span class="nav-number">1.</span> <span class="nav-text">问题</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#问题分析"><span class="nav-number">1.1.</span> <span class="nav-text">问题分析</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#修复问题"><span class="nav-number">1.2.</span> <span class="nav-text">修复问题</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#App-Thinning"><span class="nav-number">1.3.</span> <span class="nav-text">App Thinning</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#机型对应icon尺寸"><span class="nav-number">2.</span> <span class="nav-text">机型对应icon尺寸</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#问题"><span class="nav-number">1.</span> <span class="nav-text">问题</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#问题分析"><span class="nav-number">1.1.</span> <span class="nav-text">问题分析</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#修复问题"><span class="nav-number">1.2.</span> <span class="nav-text">修复问题</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#App-Thinning"><span class="nav-number">1.3.</span> <span class="nav-text">App Thinning</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#机型对应icon尺寸"><span class="nav-number">2.</span> <span class="nav-text">机型对应icon尺寸</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#PPI"><span class="nav-number">3.</span> <span class="nav-text">PPI</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#参考"><span class="nav-number">4.</span> <span class="nav-text">参考</span></a></li></ol></div>
             
           </div>
           <div class="post-toc-indicator-bottom post-toc-indicator">

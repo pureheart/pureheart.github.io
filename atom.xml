@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-04-13T03:22:05.000Z</updated>
+  <updated>2016-04-12T16:48:21.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -16,11 +16,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>烫伤</title>
+    <link href="http://pdzhangyi.com/2016/04/13/%E7%83%AB%E4%BC%A4/"/>
+    <id>http://pdzhangyi.com/2016/04/13/烫伤/</id>
+    <published>2016-04-12T16:48:21.000Z</published>
+    <updated>2016-04-12T16:48:21.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>话说签到</title>
+    <link href="http://pdzhangyi.com/2016/04/13/%E8%AF%9D%E8%AF%B4%E7%AD%BE%E5%88%B0/"/>
+    <id>http://pdzhangyi.com/2016/04/13/话说签到/</id>
+    <published>2016-04-12T16:48:12.000Z</published>
+    <updated>2016-04-12T16:48:12.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>嗨，你想做产品？（下）</title>
     <link href="http://pdzhangyi.com/2016/04/08/%E5%97%A8%EF%BC%8C%E4%BD%A0%E6%83%B3%E5%81%9A%E4%BA%A7%E5%93%81%EF%BC%9F%EF%BC%88%E4%B8%8B%EF%BC%89/"/>
     <id>http://pdzhangyi.com/2016/04/08/嗨，你想做产品？（下）/</id>
     <published>2016-04-08T15:57:36.000Z</published>
-    <updated>2016-04-13T03:22:05.000Z</updated>
+    <updated>2016-04-13T15:05:57.000Z</updated>
     
     <content type="html">&lt;p&gt;上一篇更适合面试之前的一两个月准备之用，而这篇更像是产品素养需要长期积累。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;  &lt;/p&gt;
 &lt;h1 id=&quot;阅读&quot;&gt;&lt;a href=&quot;#阅读&quot; class=&quot;headerlink&quot; title=&quot;阅读&quot;&gt;&lt;/a&gt;阅读&lt;/h1&gt;&lt;p&gt;产品经理对于信息的阅读量是有一定的要求的。通常也分为两种：一类是相对静态的知识类内容，一类是相对动态的资讯类内容。  &lt;/p&gt;
@@ -31,15 +63,15 @@
 &lt;h3 id=&quot;数据&quot;&gt;&lt;a href=&quot;#数据&quot; class=&quot;headerlink&quot; title=&quot;数据&quot;&gt;&lt;/a&gt;数据&lt;/h3&gt;&lt;h4 id=&quot;行业数据&quot;&gt;&lt;a href=&quot;#行业数据&quot; class=&quot;headerlink&quot; title=&quot;行业数据&quot;&gt;&lt;/a&gt;行业数据&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://www.analysys.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;易观智库-行业数据丰富&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;https://alizs.taobao.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;阿里指数-电商系数据，曾经的淘宝指数已经下线&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://index.baidu.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度指数-权威的搜索数据&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;http://data.stats.gov.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;国家统计局&lt;/a&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://www.talkingdata.com/index/#/datareport/-1/zh_cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;talkingdata的热门事件OR行业数据报告&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h4 id=&quot;数据资讯&quot;&gt;&lt;a href=&quot;#数据资讯&quot; class=&quot;headerlink&quot; title=&quot;数据资讯&quot;&gt;&lt;/a&gt;数据资讯&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://report.iresearch.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;艾瑞网-研究栏目也有行业数据&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;http://www.cbdio.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;数据观&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.consumerreports.org/cro/index.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;消费者报告&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&quot;app数据&quot;&gt;&lt;a href=&quot;#app数据&quot; class=&quot;headerlink&quot; title=&quot;app数据&quot;&gt;&lt;/a&gt;app数据&lt;/h4&gt;&lt;p&gt;由于iOS闭环的生态，拥有统一的规则（正因此AppStore的ASO优化【App Store Optimization】特别火），相较于Android，其公开的数据更具有参考和分析价值。下面推荐的这些网站数据是竞品分析的绝好数据来源：&lt;br&gt;国内最大的移动数据统计和服务平台：&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://www.umeng.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;友盟&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;https://www.appannie.com/cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;appannie-包含各国的Appstore专业数据，付费贵&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;http://aso100.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;aso100-国内强大的Appstore数据平台&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.appduu.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;appduu-AppStore数据&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://jk.coolchuan.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;酷传-Android市场数据&lt;/a&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;数据分析工具（包括微博和账号等分析）：&lt;a href=&quot;http://datastory.com.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;数说故事&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&quot;创业资讯&quot;&gt;&lt;a href=&quot;#创业资讯&quot; class=&quot;headerlink&quot; title=&quot;创业资讯&quot;&gt;&lt;/a&gt;创业资讯&lt;/h3&gt;&lt;p&gt;大众创业，万众创新的时代里，互联网创业热潮几乎是最猛烈的，而伴随着千万家公司企业的诞生，产品先行似乎一直是互联网创业的王道。特别是各种独角兽的诞生，更是引爆了一个又一个新兴领域的变革。而身为PM，此类咨询对于你几乎是要必备的。&lt;br&gt;不只是创业：&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://36kr.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;36kr-国内最火的创业咨询平台&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;http://www.huxiu.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;虎嗅&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.itjuzi.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;IT橘子-互联网创业公司数据库&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.cyzone.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;创业邦&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.iheima.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;i黑马-一直眷恋着校园黑马大赛&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;其他&quot;&gt;&lt;a href=&quot;#其他&quot; class=&quot;headerlink&quot; title=&quot;其他&quot;&gt;&lt;/a&gt;其他&lt;/h3&gt;&lt;p&gt;保持对于硬件的好奇心：&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://www.zealer.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ZEALER-测评出生，科技媒体&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;http://www.niaogebiji.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;鸟哥笔记&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.geekpark.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;极客公园-每年的极客公园大会很不错的样子&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.guokr.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;果壳-趣味科普&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.mojiax.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;墨加-&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.ifanr.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;爱范儿&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.leiphone.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;雷锋网&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.kickstarter.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;kickstarter-众筹&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.feng.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;威锋网-果粉必备&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;创业资讯&quot;&gt;&lt;a href=&quot;#创业资讯&quot; class=&quot;headerlink&quot; title=&quot;创业资讯&quot;&gt;&lt;/a&gt;创业资讯&lt;/h3&gt;&lt;p&gt;大众创业，万众创新的时代里，互联网创业热潮几乎是最猛烈的，而伴随着千万家公司企业的诞生，产品先行似乎一直是互联网创业的王道。特别是各种独角兽的诞生，更是引爆了一个又一个新兴领域的变革。而身为PM，此类咨询对于你几乎是要必备的。&lt;br&gt;不只是创业：&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://36kr.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;36kr-国内最火的创业资讯平台&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;http://www.huxiu.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;虎嗅&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.itjuzi.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;IT橘子-互联网创业公司数据库&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.cyzone.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;创业邦&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.iheima.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;i黑马-一直眷恋着校园黑马大赛&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;其他&quot;&gt;&lt;a href=&quot;#其他&quot; class=&quot;headerlink&quot; title=&quot;其他&quot;&gt;&lt;/a&gt;其他&lt;/h3&gt;&lt;p&gt;保持对于硬件的好奇心：&lt;strong&gt;&lt;em&gt;&lt;a href=&quot;http://www.zealer.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ZEALER-测评出生，科技媒体&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;a href=&quot;http://www.niaogebiji.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;鸟哥笔记&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.geekpark.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;极客公园-每年的极客公园大会很不错的样子&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.guokr.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;果壳-趣味科普&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.mojiax.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;墨加&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.ifanr.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;爱范儿&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.leiphone.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;雷锋网&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.kickstarter.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;kickstarter-众筹&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.feng.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;威锋网-果粉必备&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;体验【APP】&quot;&gt;&lt;a href=&quot;#体验【APP】&quot; class=&quot;headerlink&quot; title=&quot;体验【APP】&quot;&gt;&lt;/a&gt;体验【APP】&lt;/h1&gt;&lt;p&gt;互联网时代里，每天必备的信息输入（关键在于如何去除噪点信息），避免处于孤陋寡闻的状态，当需要了解某一行业或者某一产品时，也能对其现状和形态甚至是“打法”略知一二。这个时候更重要的就是直接去体验了。实实在在的去使用、感受这些新奇、有趣、灵动的产品。&lt;br&gt;对于实体的产品，需要有尝鲜的勇气，对于虚拟产品（主要还是App），就大胆的去使用吧。  &lt;/p&gt;
 &lt;h2 id=&quot;发现App之旅&quot;&gt;&lt;a href=&quot;#发现App之旅&quot; class=&quot;headerlink&quot; title=&quot;发现App之旅&quot;&gt;&lt;/a&gt;发现App之旅&lt;/h2&gt;&lt;p&gt;无非这么两条路：推荐和主动发现。&lt;/p&gt;
 &lt;h3 id=&quot;推荐&quot;&gt;&lt;a href=&quot;#推荐&quot; class=&quot;headerlink&quot; title=&quot;推荐&quot;&gt;&lt;/a&gt;推荐&lt;/h3&gt;&lt;p&gt;PC端上几个有趣的推荐应用网站：&lt;br&gt;&lt;strong&gt;&lt;em&gt;主打软件：&lt;a href=&quot;http://www.appinn.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;小众软件&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;软硬件：&lt;a href=&quot;http://sspai.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;少数派-优质应用媒体&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.appnz.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;爱屁屁&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.coolapk.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;酷安网-谢谢小查的推荐~&lt;/a&gt;   &lt;/p&gt;
 &lt;p&gt;移动端推荐：&lt;br&gt;&lt;strong&gt;&lt;em&gt;最美应用&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;不止是应用推荐：AppSolution【AppSo】&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;Android应用推荐：豌豆荚设计奖【Android】 &lt;/p&gt;
-&lt;h3 id=&quot;主动发现&quot;&gt;&lt;a href=&quot;#主动发现&quot; class=&quot;headerlink&quot; title=&quot;主动发现&quot;&gt;&lt;/a&gt;主动发现&lt;/h3&gt;&lt;p&gt;其实类似36氪的Nxet频道也是很好的应用发现入口，大部分的it资讯网站本身就兼具着好产品分享的作用。而我一般主动发现App的渠道有两个：&lt;br&gt;&lt;strong&gt;&lt;em&gt;应用市场关键词搜索和排行榜&lt;/em&gt;&lt;/strong&gt;，特别是App Store搜索结果，通常都能搜到同一类的许多其他产品。&lt;br&gt;&lt;strong&gt;&lt;em&gt;各大应用市场年度设计奖项：&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;苹果年度最佳设计奖（伴随着WWDC）&lt;br&gt;豌豆荚年度设计奖&lt;br&gt;由于各大市场每年都有相应奖项，质量良莠不齐，暂且推荐以上两个。我通常的思路是去体验这些得奖的应用，然后去市场搜索与之类似的。&lt;/p&gt;
-&lt;h2 id=&quot;总结App之道&quot;&gt;&lt;a href=&quot;#总结App之道&quot; class=&quot;headerlink&quot; title=&quot;总结App之道&quot;&gt;&lt;/a&gt;总结App之道&lt;/h2&gt;&lt;p&gt;体验App本身是一个从无到有的过程，有些产品的设计能给你眼前一亮之感，当你遇到同样场景的时候，就可以再次细细把玩。所以你的Apple ID对应的AppStore的购买历史是一个很好的参考资料。购买历史第一时间只能找到你玩过的应用名字，没有其他信息。这个时候你可以用花瓣来采集你试完过的应用截图，加上相应备注，这样子下一次你需要的时候就能快速的找到熟悉的场景和对应的app。  &lt;/p&gt;
-&lt;h1 id=&quot;积累&quot;&gt;&lt;a href=&quot;#积累&quot; class=&quot;headerlink&quot; title=&quot;积累&quot;&gt;&lt;/a&gt;积累&lt;/h1&gt;&lt;p&gt;没有头绪和动力去积累的时候，就弄个博客或者微信公众号吧，有事没事多写写产品体验报告，因为深入去思考一个产品，总能有意想不到的收获，哪怕只是一个简(hao)单(nan)的注册登录。&lt;br&gt;哦，对了。面经挺好，就像鸡汤一样，一两篇总能给你带来超出想象的收获，特别是打鸡血之用，但也请记住鸡汤喝多了有毒。&lt;/p&gt;
+&lt;h3 id=&quot;主动发现&quot;&gt;&lt;a href=&quot;#主动发现&quot; class=&quot;headerlink&quot; title=&quot;主动发现&quot;&gt;&lt;/a&gt;主动发现&lt;/h3&gt;&lt;p&gt;其实类似36氪的Nxet频道也是很好的应用发现入口，大部分的it资讯网站本身就兼具着好产品分享的作用。而我一般主动发现App的渠道有两个：&lt;br&gt;&lt;strong&gt;&lt;em&gt;应用市场关键词搜索和排行榜&lt;/em&gt;&lt;/strong&gt;，特别是App Store搜索结果，通常都能搜到同一类的许多其他产品。&lt;br&gt;&lt;strong&gt;&lt;em&gt;各大应用市场年度设计奖项：&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;苹果年度最佳设计奖（伴随着WWDC）&lt;br&gt;豌豆荚年度设计奖&lt;br&gt;由于各大市场每年都有相应奖项，质量良莠不齐，暂且推荐以上两个。通常的思路是去体验这些得奖的应用，然后搜索与之类似的。&lt;/p&gt;
+&lt;h2 id=&quot;总结App之道&quot;&gt;&lt;a href=&quot;#总结App之道&quot; class=&quot;headerlink&quot; title=&quot;总结App之道&quot;&gt;&lt;/a&gt;总结App之道&lt;/h2&gt;&lt;p&gt;体验App本身是一个从无到有的过程，有些产品的设计能给你眼前一亮之感，当你遇到同样场景的时候，就可以再次细细把玩。所以你的Apple ID对应的AppStore的购买历史是一个很好的参考资料。购买历史第一时间只能找到你体验过的应用名字（有时候真的很难找到），没有其他信息。这个时候你可以用花瓣来采集你体验过的应用截图，加上相应备注，这样子下一次你需要的时候就能快速的找到熟悉的场景和对应的app。  &lt;/p&gt;
+&lt;h1 id=&quot;积累&quot;&gt;&lt;a href=&quot;#积累&quot; class=&quot;headerlink&quot; title=&quot;积累&quot;&gt;&lt;/a&gt;积累&lt;/h1&gt;&lt;p&gt;没有头绪和动力去积累的时候，就弄个博客或者微信公众号吧，有事没事多写写产品体验报告（记住：内容和思考比报告的形式重要的多）。深入去思考一个产品，总能有意想不到的收获，哪怕只是一个简(hao)单(nan)的注册登录模块。&lt;br&gt;哦，对了。面经挺好，就像鸡汤一样，一两篇总能给你带来超出想象的收获，特别是打鸡血之用，但也请记住鸡汤喝多了有毒，恩，有毒~&lt;/p&gt;
 </content>
     
     <summary type="html">
@@ -62,7 +94,7 @@
     <link href="http://pdzhangyi.com/2016/04/06/%E4%BA%A7%E5%93%81%E5%B7%A5%E4%BD%9C%E8%B6%A3%E4%BA%8B%E4%B9%8Bicon%E5%A4%A7%E5%B0%8F%E7%9A%84%E5%BC%82%E5%B8%B8/"/>
     <id>http://pdzhangyi.com/2016/04/06/产品工作趣事之icon大小的异常/</id>
     <published>2016-04-06T13:59:05.000Z</published>
-    <updated>2016-04-10T05:56:07.000Z</updated>
+    <updated>2016-04-13T11:39:47.000Z</updated>
     
     <content type="html">&lt;h1 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h1&gt;&lt;p&gt;今天和iOS开发老大终于解决了一个一直遇到的奇怪问题：公司mis环境下的词场App iOS版在iPhone6和iPhone6s的尺寸偏大，大到和iPhone6 plus一样的尺寸，可是一旦上传至AppStore，其顶部icon大小又恢复正常了。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;问题分析&quot;&gt;&lt;a href=&quot;#问题分析&quot; class=&quot;headerlink&quot; title=&quot;问题分析&quot;&gt;&lt;/a&gt;问题分析&lt;/h2&gt;&lt;p&gt;问题拆解，总共有两个问题，其一：iPhone6和iPhone6s上的mis环境的词场App的icon尺寸不对，偏大；其二：同样的源代码打包上传至AppStore，再再从AppStore安装，这么一来一回，icon大小正常。&lt;br&gt;猜测：  &lt;/p&gt;
@@ -85,7 +117,8 @@
 &lt;li&gt;3x切图（以1280为宽度尺寸为基准切图）&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;对应的机型如下：&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/57764501.jpg&quot; alt=&quot;切图机型&quot;&gt;&lt;br&gt;点和物理像素的区别：&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-8/25479515.jpg&quot; alt=&quot;iPhone分辨率&quot;&gt;&lt;/p&gt;
-&lt;p&gt;#参考&lt;br&gt;&lt;a href=&quot;http://www.cocoachina.com/ios/20150612/12135.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;App Thinning介绍&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.luoxiao123.cn/11324.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;APP切图详细规范终极指南&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://blog.csdn.net/cuibo1123/article/details/39405973&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iphone分辨率终极指南(含iphone6/6+)&lt;/a&gt;&lt;br&gt;推荐：&lt;br&gt;&lt;a href=&quot;http://www.ui001.com/chicun/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iPhone、iPad、Android设备尺寸&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;PPI&quot;&gt;&lt;a href=&quot;#PPI&quot; class=&quot;headerlink&quot; title=&quot;PPI&quot;&gt;&lt;/a&gt;PPI&lt;/h1&gt;&lt;p&gt;图像分辨率（ImageResolution）指图像中存储的信息量，这种分辨率有多种衡量方法，典型的是以每英寸的像素数（PPI，pixel per inch）来衡量。计算公式：&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-4-13/38489795.jpg&quot; alt=&quot;计算公式&quot;&gt;&lt;br&gt;拿iPhone6来说，其分别率是1334*750，屏幕尺寸是4.7英寸，可计算得到325.6ppi，也就是所谓的Retina屏幕。如果对于英寸感知不明感，换算可以得到12.8像素/毫米。&lt;/p&gt;
+&lt;h1 id=&quot;参考&quot;&gt;&lt;a href=&quot;#参考&quot; class=&quot;headerlink&quot; title=&quot;参考&quot;&gt;&lt;/a&gt;参考&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;http://www.cocoachina.com/ios/20150612/12135.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;App Thinning介绍&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.luoxiao123.cn/11324.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;APP切图详细规范终极指南&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://blog.csdn.net/cuibo1123/article/details/39405973&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iphone分辨率终极指南(含iphone6/6+)&lt;/a&gt;&lt;br&gt;推荐：&lt;br&gt;&lt;a href=&quot;http://www.ui001.com/chicun/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iPhone、iPad、Android设备尺寸&lt;/a&gt;&lt;/p&gt;
 </content>
     
     <summary type="html">
@@ -410,9 +443,9 @@
       <category term="摘录" scheme="http://pdzhangyi.com/categories/%E6%91%98%E5%BD%95/"/>
     
     
-      <category term="产品" scheme="http://pdzhangyi.com/tags/%E4%BA%A7%E5%93%81/"/>
-    
       <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
+    
+      <category term="产品" scheme="http://pdzhangyi.com/tags/%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
