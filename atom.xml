@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-04-12T16:48:21.000Z</updated>
+  <updated>2016-04-19T09:03:16.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -14,6 +14,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>多做比少做真的更难</title>
+    <link href="http://pdzhangyi.com/2016/04/19/%E5%A4%9A%E5%81%9A%E6%AF%94%E5%B0%91%E5%81%9A%E7%9C%9F%E7%9A%84%E6%9B%B4%E9%9A%BE/"/>
+    <id>http://pdzhangyi.com/2016/04/19/多做比少做真的更难/</id>
+    <published>2016-04-19T09:03:16.000Z</published>
+    <updated>2016-04-19T09:03:16.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>烫伤</title>
@@ -32,15 +48,52 @@
   </entry>
   
   <entry>
-    <title>话说签到</title>
+    <title>话说签到（图片后续补上）</title>
     <link href="http://pdzhangyi.com/2016/04/13/%E8%AF%9D%E8%AF%B4%E7%AD%BE%E5%88%B0/"/>
     <id>http://pdzhangyi.com/2016/04/13/话说签到/</id>
     <published>2016-04-12T16:48:12.000Z</published>
-    <updated>2016-04-14T09:20:06.000Z</updated>
+    <updated>2016-04-23T17:13:12.000Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;p&gt;聊到签到，可能你会太简单，然而实际未必，今天就来聊聊~&lt;br&gt;签到：弱小的体格下，埋藏着一颗不屈的心。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;浅谈签到&quot;&gt;&lt;a href=&quot;#浅谈签到&quot; class=&quot;headerlink&quot; title=&quot;浅谈签到&quot;&gt;&lt;/a&gt;浅谈签到&lt;/h1&gt;&lt;h2 id=&quot;签到的前世今生&quot;&gt;&lt;a href=&quot;#签到的前世今生&quot; class=&quot;headerlink&quot; title=&quot;签到的前世今生&quot;&gt;&lt;/a&gt;签到的前世今生&lt;/h2&gt;&lt;p&gt;签到指在规定的簿册上签名或写一“到”字，表示本人已经到达。多用于出席会议或上班。–引自百科。&lt;br&gt;签到有两个基本因素：特定的场合（会议、上班）、特定的行为（签到）。&lt;br&gt;如今，明星走红毯极为流行签到，明星出席会场留下签名。上班打卡签到更是成为了某些行业某些公司的必备要求。而各种工具类App的签到功能更是横飞满天，那么签到对于用户和产品之间都有哪些需求？&lt;/p&gt;
+&lt;h2 id=&quot;签到之与用户&quot;&gt;&lt;a href=&quot;#签到之与用户&quot; class=&quot;headerlink&quot; title=&quot;签到之与用户&quot;&gt;&lt;/a&gt;签到之与用户&lt;/h2&gt;&lt;p&gt;签到其本身是由用户主动发出的一个行为，该行为与产品的主场景流程通常不相关，正因此产品的主场景的各项功能设计对于签到来说没有促进和激励作用，用户在养成签到行为的习惯之前（冷启动），缺乏诱因，行为之后又缺乏反馈和动力来坚持。&lt;br&gt;该行为产生了明确的信息释放：“我”主动告知“我”来了（告之了别人，也提醒自己），加之信息的公开和数字化，其对于用户来说有监督和激励作用，该作用随着签到累计的日期越多，作用越明显。总结下来，其对于用户来说有四个特点：   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;签到行为本身是独立于产品主场景&lt;/li&gt;
+&lt;li&gt;签到行为之前，缺乏诱因；行为之后，渴望反馈 &lt;/li&gt;
+&lt;li&gt;释放信息的公开和数字化，具有自我监督和激励作用&lt;/li&gt;
+&lt;li&gt;行为累计养成习惯&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;签到之与产品&quot;&gt;&lt;a href=&quot;#签到之与产品&quot; class=&quot;headerlink&quot; title=&quot;签到之与产品&quot;&gt;&lt;/a&gt;签到之与产品&lt;/h2&gt;&lt;p&gt;对于工具类app,其通常面临的尴尬在于用户并没有每天使用该产品的习惯，有时候也只是Boss希望用户每天使用该产品，产品实际提供的服务和解决的需求的频次天然就不高（比如计算器，用户完全没有每天打开的需求，但是像运动类app或者记账类app，用户很难养成主动打开的习惯，但该产品要体现最大的价值即在于帮助用户养成良好的习惯-健身or理财）。&lt;strong&gt;&lt;em&gt;简而言之，签到是帮助用户快速养成一定频次内使用该产品的习惯的一个承接点，反映在数据来说，提高产品的用户留存和活跃。&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;比起运营常用的push，签到的诱导力是长期存在的，且随着行为的积累，影响更大。因此app的签到通常也针对性的设计和突出了三个签到属性：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;签到的天数（行为习惯养成的直接体现，直白的数字即能给与用户一定的提醒和督促效果）&lt;/li&gt;
+&lt;li&gt;签到的奖励（用户本身就渴望得到反馈，奖励无疑是最好的反馈和鼓励）&lt;/li&gt;
+&lt;li&gt;签到的行为（1.签到行为如何与主场景结合抑或刻意区分；2.如何把用户对于线下签到行为的认知平滑过渡到线上，这是一个交互设计的重点考量对象）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大部分签到功能也是围绕着玩转这三个属性来设计的。&lt;/p&gt;
+&lt;h1 id=&quot;签到的设计&quot;&gt;&lt;a href=&quot;#签到的设计&quot; class=&quot;headerlink&quot; title=&quot;签到的设计&quot;&gt;&lt;/a&gt;签到的设计&lt;/h1&gt;&lt;h2 id=&quot;签到交互&quot;&gt;&lt;a href=&quot;#签到交互&quot; class=&quot;headerlink&quot; title=&quot;签到交互&quot;&gt;&lt;/a&gt;签到交互&lt;/h2&gt;&lt;p&gt;通常签到行为独立于主流程之外（签到类app不算）。签到本身也都是辅助提醒和刺激用户，其设计不能喧宾夺主。在激励作用上，游戏一直是做得最好的，而在签到与主场景结合上，也有很多产品做得不错（这一类通常称之为打卡）。通过比较多款app，以签到入口及交互操作来划分得到四类：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;无入口，无操作：在启动app或者打开某一页面时（通常是首页），自动弹框提示告之用户签到成功，没有签到入口。比如：沪江学习。   &lt;/li&gt;
+&lt;li&gt;独立入口，入口即签到：点击签到入口，即签到成功。比如：作业帮&lt;/li&gt;
+&lt;li&gt;进入独立人口，点击签到按钮：点击签到入口，通过签到奖励诱导用户领取签到，比如：TwoDots&lt;/li&gt;
+&lt;li&gt;入口与主场景集合，需要完成相应操作才完成签到：Qzone、&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;好的交互是将用户需求和用户行为完美融合，而签到交互设计的不同恰恰代表了其产品背后需求场景的考量。&lt;br&gt;第一种是最轻的方式，用户打开app即签到，将签到与用户主场景行为直接融为一体，简洁但同时也因缺乏独立的入口而降低了用户对于签到的感知，自然也降低了签到本身的作用。&lt;br&gt;第二、三种，都有独立的入口，区别在乎交互的轻重，而轻重的背后实则是奖励丰厚程度的差异对于用户吸引力的不同进而衍生出不同层次的参与感。&lt;br&gt;最后一种将签到和主场景结合，既保留签到本身的独立入口，又使其与主场景更贴近，是核心功能与签到不再疏远。&lt;/p&gt;
+&lt;h3 id=&quot;Qzone的签到&quot;&gt;&lt;a href=&quot;#Qzone的签到&quot; class=&quot;headerlink&quot; title=&quot;Qzone的签到&quot;&gt;&lt;/a&gt;Qzone的签到&lt;/h3&gt;&lt;p&gt;以Qzone来举例，不管是移动端还是PC端，都将签到和主场景：发说说结合在一起。  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;满足用户“存在感”需求的设计：对于Qzone这类生活记录的轻博客社区，存在这种需求：“我今天没啥好发的，但看到你们的状态，我想证明我也存在”。对于这部分用户来说，他们需要的一个落地点，去表达这样子的诉求。Qzone的签到恰恰就是，用户在系统提示的范围内必选一张与当日或者最近热点相关的图文，方可发送签到。通过签到解决用户想要存在感却无事可发的尴尬的同时，也从另一方面规范和优化了签到这一特殊行为和内容。&lt;/li&gt;
+&lt;li&gt;进化的签到：每日一签。将每日一签到与抽签的概念结合，用户每天选一张黄历或者抽取今日运势等。增加签到活跃的同时，将签到本身的范围和认知拓宽。&lt;/li&gt;
+&lt;li&gt;特有的行为和内容很适合运营：签到本身特有的行为和特殊的内容，让其拥有了话题的作用，用户传播同一个签到内容主题时，将该内容融入到自己的社交圈中，有意无意的增加了品牌的曝光。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;签到天数和奖励&quot;&gt;&lt;a href=&quot;#签到天数和奖励&quot; class=&quot;headerlink&quot; title=&quot;签到天数和奖励&quot;&gt;&lt;/a&gt;签到天数和奖励&lt;/h2&gt;&lt;p&gt;签到行为的两个基本要素，签到类app无疑在这方面做得最好。因为其本身也只能依靠这两个属性去发挥签到本身强大的激励、督促的作用。这类app甚至会借助一些额外的形象，比如植物。随着用户签到天数的增加，其植物逐渐成长壮大（Qzone的花藤）。&lt;br&gt;但就天数和奖励属性来看，天数的累加和清零机制、天数和奖励之间的关系都是重点需要考量的点。&lt;/p&gt;
+&lt;h3 id=&quot;天数：连续和累计&quot;&gt;&lt;a href=&quot;#天数：连续和累计&quot; class=&quot;headerlink&quot; title=&quot;天数：连续和累计&quot;&gt;&lt;/a&gt;天数：连续和累计&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;连续&lt;/em&gt;&lt;/strong&gt;：对于连续签到而言，往往与自然日相关，中断连续根据是否存在自然日的间隔来判断。这种情况下，是用户累计签到天数增加最快的方式。当然为了减缓强制连续规则带来的负面效果，后期通常还会有补签卡的设计。&lt;br&gt;&lt;strong&gt;&lt;em&gt;累计&lt;/em&gt;&lt;/strong&gt;：与自然日不相关的连续签到也多见于游戏，该签到更多强调的是累计天数。其签到的累计天数的快慢频率，由用户把握。&lt;br&gt;由于奖励都与天数成正相关，连续强制了用户获取奖励的节奏。根据产品本身的使用场景，是否需要“强制”用户每天都打开来选择相应的机制。&lt;/p&gt;
+&lt;h3 id=&quot;连续天数清零：中断即清零&quot;&gt;&lt;a href=&quot;#连续天数清零：中断即清零&quot; class=&quot;headerlink&quot; title=&quot;连续天数清零：中断即清零&quot;&gt;&lt;/a&gt;连续天数清零：中断即清零&lt;/h3&gt;&lt;p&gt;曾几何时常见连续签到的清零机制是中断即清零。这种强制清零的苛刻规则之下，确实能带来强大的督促作用，但规则过于苛刻，难免用户存在某一天无法签到的情况，其签到累计数据较大的情况直接被清零，会直接导致用户的流失。&lt;/p&gt;
+&lt;h3 id=&quot;天数和奖励的方式&quot;&gt;&lt;a href=&quot;#天数和奖励的方式&quot; class=&quot;headerlink&quot; title=&quot;天数和奖励的方式&quot;&gt;&lt;/a&gt;天数和奖励的方式&lt;/h3&gt;&lt;p&gt;积分奖励：积分本身无价值，需要累积到一定数量兑换物品，在与天数成正比的方面需要考虑到积分上限的问题。&lt;br&gt;道具奖励：由于道具的数量和种类的组合，可以产生多种不同的奖励组合，为了防止道具泛滥，通常与天数正比时会有一个上线，比如第七天即领到最高奖励，明日重置。亦或者每天都有不同的道具，利用不同天数的道具种类的不同来吸引用户（日历格子的奖励方式）。  &lt;/p&gt;
+&lt;h1 id=&quot;总结&quot;&gt;&lt;a href=&quot;#总结&quot; class=&quot;headerlink&quot; title=&quot;总结&quot;&gt;&lt;/a&gt;总结&lt;/h1&gt;&lt;p&gt;词场在5.2.0上线的背词打卡分享的成功（从数据层面来看，直接将词场第三方社交平台的分享量增长了一两个量级），也说明了第四种签到交互设计方式的参与感的成功。&lt;br&gt;但是也注意到，该种方式更多是激励已背词用户去分享，依旧缺乏一个点去激励用户每天打开词场app。因此5.4.0也准备上线新的签到功能，以完全独立的入口和点击签到按钮的交互方式来给用户引入完整签到的概念（PS：奖励模式是以连续签到送沪元的方式）。后续我将该功能上线后的数据进行一个分析整理，mark！&lt;/p&gt;
+</content>
     
     <summary type="html">
+    
+      &lt;p&gt;聊到签到，可能你会太简单，然而实际未必，今天就来聊聊~&lt;br&gt;签到：弱小的体格下，埋藏着一颗不屈的心。&lt;br&gt;
     
     </summary>
     
