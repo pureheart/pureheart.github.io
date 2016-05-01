@@ -41,7 +41,7 @@
 <link href="/css/main.css?v=0.5.0" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="面试,阿里," />
+  <meta name="keywords" content="阿里,面试," />
 
 
 
@@ -421,9 +421,9 @@
       
         <div class="post-tags">
           
-            <a href="/tags/面试/" rel="tag">#面试</a>
-          
             <a href="/tags/阿里/" rel="tag">#阿里</a>
+          
+            <a href="/tags/面试/" rel="tag">#面试</a>
           
         </div>
       
@@ -681,17 +681,6 @@
 </div>
 
 
-
-<% if (!index){ %>
-<script>
-(function(){
-    var bp = document.createElement('script');
-    bp.src = '//push.zhanzhang.baidu.com/push.js';
-    var s = document.getElementsByTagName("script")[0];
-    s.parentNode.insertBefore(bp, s);
-})();
-</script>     
-<% } %>
 
       </div>
     </footer>
@@ -1038,6 +1027,19 @@
 
 -->
 
+  <!--主动调用百度站长推送-->
+  <% if (!index){ %>
+  <script>
+  (function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+  })();
+  </script>     
+  <% } %>
+
+  
      <!-- custom analytics part create by xiamo -->
 <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script>
 <script>AV.initialize("HIa6nMmv03Rv39xkAN33PhrW-gzGzoHsz", "uo1fMXdp5M7jb6XzcXYQKp58");</script>
