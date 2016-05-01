@@ -11,4 +11,3 @@ Disallow: /vendors/
 Disallow: /fancybox/
 
 Sitemap: http://www.pdzhangyi.com/sitemap.xml
-Sitemap: http://www.pdzhangyi.com/baidusitemap.xml
