@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-05-22T13:49:25.000Z</updated>
+  <updated>2016-05-27T13:08:48.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -14,6 +14,45 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mac双系统切换，长按Option切换无效</title>
+    <link href="http://pdzhangyi.com/2016/05/27/Mac%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%88%87%E6%8D%A2%E9%95%BF%E6%8C%89Option%E5%88%87%E6%8D%A2%E6%97%A0%E6%95%88/"/>
+    <id>http://pdzhangyi.com/2016/05/27/Mac双系统切换长按Option切换无效/</id>
+    <published>2016-05-27T11:20:06.000Z</published>
+    <updated>2016-05-27T13:08:48.000Z</updated>
+    
+    <content type="html">&lt;p&gt;如题&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h1&gt;&lt;p&gt;昨晚Mac一直开着上传文件至百度云，第二天回寝室打开Mac默认启动Windows?然后发现无法切换回Mac OS了。&lt;/p&gt;
+&lt;h1 id=&quot;研究&quot;&gt;&lt;a href=&quot;#研究&quot; class=&quot;headerlink&quot; title=&quot;研究&quot;&gt;&lt;/a&gt;研究&lt;/h1&gt;&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;p&gt;我的问题是现在打开Mac后长按option无反应只能进入&lt;/p&gt;
+&lt;h2 id=&quot;百度&quot;&gt;&lt;a href=&quot;#百度&quot; class=&quot;headerlink&quot; title=&quot;百度&quot;&gt;&lt;/a&gt;百度&lt;/h2&gt;&lt;p&gt;第一时间当然是直接百度，肯定有同样的网友遇到了同样的问题，只不过解答方案令人心塞。&lt;/p&gt;
+&lt;h2 id=&quot;官方介绍&quot;&gt;&lt;a href=&quot;#官方介绍&quot; class=&quot;headerlink&quot; title=&quot;官方介绍&quot;&gt;&lt;/a&gt;官方介绍&lt;/h2&gt;&lt;p&gt;Mac一买来就通过BootCamp装了Win 10，原因你懂的。第一时间去查阅苹果的技术支持–官方文档。&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-5-27/86043940.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;两个关键点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;官方之给定了一种启动Mac时的切换系统操作，即长按option。&lt;/li&gt;
+&lt;li&gt;不仅Mac可以设置默认启动磁盘，Windows也可以。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;解决方案&quot;&gt;&lt;a href=&quot;#解决方案&quot; class=&quot;headerlink&quot; title=&quot;解决方案&quot;&gt;&lt;/a&gt;解决方案&lt;/h1&gt;&lt;p&gt;尝试：通过在Windows中将默认启动磁盘改为Macintosh HD，然后重启。&lt;br&gt;最终也确实是可行的。&lt;/p&gt;
+&lt;h2 id=&quot;具体方式&quot;&gt;&lt;a href=&quot;#具体方式&quot; class=&quot;headerlink&quot; title=&quot;具体方式&quot;&gt;&lt;/a&gt;具体方式&lt;/h2&gt;&lt;p&gt;给Windows安装BootCamp：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通过BootCamp助理安装的Windows的U盘中有BootCamp驱动，直接安装&lt;/li&gt;
+&lt;li&gt;直接百度：BootCamp驱动，下载安装&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;安装BootCamp可能出现一直卡在Realtek声卡环节，解决方案：&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-5-27/12119522.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;安装完后，在控制面板中找到BootCamp，然后进入选择默认启动磁盘改为Macintosh HD即可，重启。&lt;/p&gt;
+&lt;h2 id=&quot;done&quot;&gt;&lt;a href=&quot;#done&quot; class=&quot;headerlink&quot; title=&quot;done&quot;&gt;&lt;/a&gt;done&lt;/h2&gt;&lt;p&gt;重启之后，长按option又出现了熟悉的两个磁盘启动选项，选择Macintosh HD，居然出现了闪电图标。百度之后提示是没有电，可是电源明明是满的呀~于是在关机重启，就OK了~&lt;br&gt;网友的力量是神奇的，官方的文档也是值得参考的。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;如题&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Mac" scheme="http://pdzhangyi.com/categories/Mac/"/>
+    
+    
+      <category term="Mac" scheme="http://pdzhangyi.com/tags/Mac/"/>
+    
+  </entry>
   
   <entry>
     <title>九三抗战阅兵</title>
