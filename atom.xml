@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-05-27T13:08:48.000Z</updated>
+  <updated>2016-06-15T18:01:11.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -14,6 +14,43 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>iOS10尝鲜</title>
+    <link href="http://pdzhangyi.com/2016/06/15/iOS10%E5%B0%9D%E9%B2%9C/"/>
+    <id>http://pdzhangyi.com/2016/06/15/iOS10尝鲜/</id>
+    <published>2016-06-15T11:39:53.000Z</published>
+    <updated>2016-06-15T18:01:11.000Z</updated>
+    
+    <content type="html">&lt;p&gt;WWDC2016的当晚和同学通宵玩桌游去了。第二天醒来，果然没有想要的Apple watch2，不过iOS10倒是如期而至。&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-6-15/27376356.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;毕竟是视觉动物，每次iOS换代升级时，第一反应都是寻找哪些视觉元素上的发生了变化。毋庸置疑，iOS6到iOS7是一次彻彻底底的视觉风格和元素的大变化，大到从拟物化变革到扁平化进而影响整个移动互联网界的视觉风格的变化。加之Apple对iOS不支持降级的设定，一直对iOS6念念不忘。&lt;br&gt;话题回到iOS10，跟着我一起感受这新(ka)奇(dun)的iOS10吧~&lt;/p&gt;
+&lt;h1 id=&quot;升级iOS10&quot;&gt;&lt;a href=&quot;#升级iOS10&quot; class=&quot;headerlink&quot; title=&quot;升级iOS10&quot;&gt;&lt;/a&gt;升级iOS10&lt;/h1&gt;&lt;p&gt;升级iOS系统一直有两种方式，一种通过iTunes的方式给手机安装最新OS，一种是OTA，即直接通过手机自身升级。&lt;br&gt;值得注意的是beta版的系统是可以回滚的，而且往往存在着卡顿、发热等问题，在升级beta版体验之前，&lt;strong&gt;&lt;em&gt;务必要用iTunes备份好&lt;/em&gt;&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2 id=&quot;通过iTunes升级&quot;&gt;&lt;a href=&quot;#通过iTunes升级&quot; class=&quot;headerlink&quot; title=&quot;通过iTunes升级&quot;&gt;&lt;/a&gt;通过iTunes升级&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;下载最新固件&lt;br&gt;对应机型和链接：&lt;a href=&quot;http://www.ithome.com/html/iphone/233119.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iOS10开发者预览版Beta1固件下载大全&lt;/a&gt;&lt;br&gt;iOS10不支持iPhone4s及以下机型。&lt;br&gt;对了，这个固件下载链接是当前能得到的最靠谱的一条，官网链接暂未找到。笔者亲测但由于网速原因未下载完成，转而通过OTA升级。 你&lt;/li&gt;
+&lt;li&gt;选择固件升级&lt;br&gt;Windows用户，Shift+更新iPhone/升级iPhone（检查更新旁边的按钮），然后选择固件进行升级。&lt;br&gt;Mac用户，Command+更新iPhone/升级iPhone（检查更新旁边的按钮），然后选择固件进行升级。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;PS：通过iTunes升级还有一种方式，通过进入DFU模式进行升级，由于风险和操作门槛的原因暂不介绍。  &lt;/p&gt;
+&lt;h2 id=&quot;通过OTA升级&quot;&gt;&lt;a href=&quot;#通过OTA升级&quot; class=&quot;headerlink&quot; title=&quot;通过OTA升级&quot;&gt;&lt;/a&gt;通过OTA升级&lt;/h2&gt;&lt;p&gt;OTA（Over-the-Air Technology，空间下载技术），即通过手机连接网络来下载系统升级所需文件来进行更新。&lt;br&gt;由于属于beta版系统，Apple未做全部推送升级，需要通过描述文件来获取系统升级推送。  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;安装描述文件&lt;br&gt;iOS10推送描述文件：&lt;a href=&quot;http://pan.baidu.com/s/1jH9W4po&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iOS10描述文件&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;检测升级&lt;br&gt;设置-通用-软件更新-下载-安装。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;两种方式对比，第一种由于下载的固件是完整的，因此可以对原有机型中系统存在的问题进行修复。第二种利用OTA升级系统时相应的文件体积偏小，因为OTA升级包只包含了差异文件的补丁，而对于升级前后版本没有差异的系统文件则被忽略，从而可能造成数据更新的不完整性。当然该种方式速度更快，操作也更简单。&lt;/p&gt;
+&lt;h1 id=&quot;体验&quot;&gt;&lt;a href=&quot;#体验&quot; class=&quot;headerlink&quot; title=&quot;体验&quot;&gt;&lt;/a&gt;体验&lt;/h1&gt;&lt;p&gt;大功告成，贴张图~&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-6-16/51494820.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;未完待续&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;WWDC2016的当晚和同学通宵玩桌游去了。第二天醒来，果然没有想要的Apple watch2，不过iOS10倒是如期而至。&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/16-6-15/27376356.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="iPhone" scheme="http://pdzhangyi.com/categories/iPhone/"/>
+    
+    
+      <category term="Apple" scheme="http://pdzhangyi.com/tags/Apple/"/>
+    
+  </entry>
   
   <entry>
     <title>Mac双系统切换，长按Option切换无效</title>
