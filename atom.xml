@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2016-09-04T10:13:25.000Z</updated>
+  <updated>2016-09-04T10:15:01.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -20,11 +20,10 @@
     <link href="http://pdzhangyi.com/2016/09/04/%E8%B7%B3%E8%BD%AC%E4%B8%8E%E5%91%BC%E8%B5%B7-%E8%B7%A8%E8%B6%8A%E5%BE%AE%E4%BF%A1&QQ%E4%B8%8EApp%E4%B9%8B%E9%97%B4%E7%9A%84%E9%B8%BF%E6%B2%9F/"/>
     <id>http://pdzhangyi.com/2016/09/04/跳转与呼起-跨越微信&QQ与App之间的鸿沟/</id>
     <published>2016-09-04T05:13:47.000Z</published>
-    <updated>2016-09-04T10:13:25.000Z</updated>
+    <updated>2016-09-04T10:15:01.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;img src=&quot;http://i1.piimg.com/567571/bfa0e07c16d78afe.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;社交转播是一种魔力&quot;&gt;&lt;a href=&quot;#社交转播是一种魔力&quot; class=&quot;headerlink&quot; title=&quot;社交转播是一种魔力&quot;&gt;&lt;/a&gt;社交转播是一种魔力&lt;/h1&gt;&lt;p&gt;通常判断一个App火不火，刷刷朋友圈就知道了。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;社交传播是一种魔力，能让你的App短期内获得大量的传播曝光，带来疯狂的增长（还记得脸萌和足迹么）。任何想要借助这一力量的，都不无法避免的需要借助在微信和QQ中进行传播。腾讯本身基于各种考量，对于第三方App的跳转设置了不少限制，如何突破这些限制成为了很多中小产品的必修课。&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;一个App有多火，刷刷朋友圈就知道&lt;/blockquote&gt;&lt;br&gt;&lt;img src=&quot;http://i1.piimg.com/567571/bfa0e07c16d78afe.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;社交转播是一种魔力&quot;&gt;&lt;a href=&quot;#社交转播是一种魔力&quot; class=&quot;headerlink&quot; title=&quot;社交转播是一种魔力&quot;&gt;&lt;/a&gt;社交转播是一种魔力&lt;/h1&gt;&lt;p&gt;社交传播是一种魔力，能让你的App短期内获得大量的传播曝光，带来疯狂的增长（还记得脸萌和足迹么）。任何想要借助这一力量的，都不无法避免的需要借助在微信和QQ中进行传播。腾讯本身基于各种考量，对于第三方App的跳转设置了不少限制，如何突破这些限制成为了很多中小产品的必修课。&lt;/p&gt;
 &lt;h1 id=&quot;跳转场景与技术手段和策略&quot;&gt;&lt;a href=&quot;#跳转场景与技术手段和策略&quot; class=&quot;headerlink&quot; title=&quot;跳转场景与技术手段和策略&quot;&gt;&lt;/a&gt;跳转场景与技术手段和策略&lt;/h1&gt;&lt;h2 id=&quot;跳转场景有哪些？&quot;&gt;&lt;a href=&quot;#跳转场景有哪些？&quot; class=&quot;headerlink&quot; title=&quot;跳转场景有哪些？&quot;&gt;&lt;/a&gt;跳转场景有哪些？&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;微信、QQ–&amp;gt;某App&lt;/li&gt;
 &lt;/ul&gt;
@@ -57,8 +56,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://i1.piimg.com/567571/bfa0e07c16d78afe.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h1 id=&quot;社交转播是一种魔力&quot;&gt;&lt;a href=&quot;#社交转播是一种魔力&quot; class=&quot;headerlink&quot; title=&quot;社交转播是一种魔力&quot;&gt;&lt;/a&gt;社交转播是一种魔力&lt;/h1&gt;&lt;p&gt;通常判断一个App火不火，刷刷朋友圈就知道了。&lt;br&gt;
+      &lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;一个App有多火，刷刷朋友圈就知道&lt;/blockquote&gt;&lt;br&gt;&lt;img src=&quot;http://i1.piimg.com/567571/bfa0e07c16d78afe.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
     
     </summary>
     
