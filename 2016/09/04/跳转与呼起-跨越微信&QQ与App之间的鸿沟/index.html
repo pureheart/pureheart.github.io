@@ -66,12 +66,12 @@
 <meta property="og:site_name" content="凿光看世界">
 <meta property="og:description" content="一个App有多火，刷刷朋友圈就知道">
 <meta property="og:image" content="http://i1.piimg.com/567571/bfa0e07c16d78afe.jpg">
-<meta property="og:image" content="http://i2.buimg.com/567571/6afb997a0b1de7ec.png">
-<meta property="og:image" content="http://i4.buimg.com/567571/003a1647c87f21f5.png">
-<meta property="og:image" content="http://ww3.sinaimg.cn/large/74311666jw1f7hpmt59v1j20ku112afj.jpg">
-<meta property="og:image" content="http://i4.buimg.com/567571/5efd77bf0df86f45.png">
-<meta property="og:image" content="http://i2.buimg.com/567571/44c037d5c1afa1ee.jpg">
-<meta property="og:updated_time" content="2016-09-04T16:34:10.000Z">
+<meta property="og:image" content="http://7xrxdv.com1.z0.glb.clouddn.com/6%E7%AE%80%E4%B9%A61.png?imageMogr2/thumbnail/!50p">
+<meta property="og:image" content="http://7xrxdv.com1.z0.glb.clouddn.com/4%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.png?imageMogr2/thumbnail/!50p">
+<meta property="og:image" content="http://7xrxdv.com1.z0.glb.clouddn.com/3%E7%AE%80%E4%B9%A6.jpg?imageMogr2/thumbnail/!50p">
+<meta property="og:image" content="http://7xrxdv.com1.z0.glb.clouddn.com/2PK%E5%AF%BC%E5%9B%BE.png?imageMogr2/thumbnail/!50p">
+<meta property="og:image" content="http://7xrxdv.com1.z0.glb.clouddn.com/1%E6%B7%98%E7%A5%A8%E7%A5%A8.jpg?imageMogr2/thumbnail/!50p">
+<meta property="og:updated_time" content="2016-09-29T12:16:34.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="跳转与呼起-跨越微信&QQ与App之间的鸿沟">
 <meta name="twitter:description" content="一个App有多火，刷刷朋友圈就知道">
@@ -372,7 +372,8 @@
 <h2 id="技术手段和策略"><a href="#技术手段和策略" class="headerlink" title="技术手段和策略"></a>技术手段和策略</h2><ul>
 <li><strong>最常用的跳转方式Android和iOS都是URL scheme，通过一个类似URL的链接，通过系统的OpenURl来打开该app，并可以传递一些参数。</strong></li>
 </ul>
-<p>形如<strong>weixin://XXX</strong>，就是通过scheme启动并跳转至微信的特定页面。<br>微信一直以来对于平台上的内容把控比较严苛，其在两年前就屏蔽了大部分第三方应用的scheme跳转。当你看到下图情形，就知道其一该跳转是通过scheme的方式进行的，其二该应用并没有在微信scheme的白名单中。<br><img src="http://i2.buimg.com/567571/6afb997a0b1de7ec.png" alt=""><br><strong>微信屏蔽了scheme跳转</strong>，通过scheme跳转至AppStore的链接也被屏蔽（也屏蔽了直接下载安装包），这个时候就需要借助腾讯应用宝微下载的方式。用户点击下载跳转至腾讯应用宝该App的微下载页面，该页面会自动判断用户是否安装该应用，并相应的打开或下载（由于Android和iOS应用市场的差异，Android中通过微下载打开该App依然能直达到相应界面，而iOS微下载打开AppStore页面后启动App无法继续跳转至相应页面）。<br><strong>scheme无法得到是否打开响应</strong>，其只能尝试打开该应用，但当应用未安装时，其并不能做相应的判断处理。因此各大App通过不同的方式来解决，最常用的方式则是提供了两个按钮：打开和下载（让用户自身来判断自己是否安装该应用）。 </p>
+<p>形如<strong>weixin://XXX</strong>，就是通过scheme启动并跳转至微信的特定页面。<br>微信一直以来对于平台上的内容把控比较严苛，其在两年前就屏蔽了大部分第三方应用的scheme跳转。当你看到下图情形，就知道其一该跳转是通过scheme的方式进行的，其二该应用并没有在微信scheme的白名单中。<br><img src="http://7xrxdv.com1.z0.glb.clouddn.com/6%E7%AE%80%E4%B9%A61.png?imageMogr2/thumbnail/!50p" alt=""></p>
+<p><strong>微信屏蔽了scheme跳转</strong>，通过scheme跳转至AppStore的链接也被屏蔽（也屏蔽了直接下载安装包），这个时候就需要借助腾讯应用宝微下载的方式。用户点击下载跳转至腾讯应用宝该App的微下载页面，该页面会自动判断用户是否安装该应用，并相应的打开或下载（由于Android和iOS应用市场的差异，Android中通过微下载打开该App依然能直达到相应界面，而iOS微下载打开AppStore页面后启动App无法继续跳转至相应页面）。<br><strong>scheme无法得到是否打开响应</strong>，其只能尝试打开该应用，但当应用未安装时，其并不能做相应的判断处理。因此各大App通过不同的方式来解决，最常用的方式则是提供了两个按钮：打开和下载（让用户自身来判断自己是否安装该应用）。 </p>
 <ul>
 <li><strong>iOS9 提供了通用链接–Universal Links：一种能够方便的通过传统 HTTP 链接来启动 APP, 使用相同的网址打开网站和APP</strong></li>
 </ul>
@@ -383,16 +384,16 @@
 <li>局限：只有iOS9及以上系统才支持</li>
 <li>用户点击右上角打开相应网址之后，universal link再无法呼起App（只会打开该网址，跳转至AppStore）</li>
 </ul>
-<h1 id="几款核心App的跳转场景梳理"><a href="#几款核心App的跳转场景梳理" class="headerlink" title="几款核心App的跳转场景梳理"></a>几款核心App的跳转场景梳理</h1><h2 id="哔哩哔哩动画"><a href="#哔哩哔哩动画" class="headerlink" title="哔哩哔哩动画"></a>哔哩哔哩动画</h2><p>需求：简单的跳转需求<br>15年年末，腾讯2亿软妹币投资B站，因此B站作为微信scheme跳转的白名单也不足为奇。<br>B站通过scheme的形式完成从微信到哔哩哔哩动画的跳转。但由于scheme天然的限制，当用户未安装时，点击“用客户端打开”无反应（用），因此在页面底部提供了下载飘条。<br><img src="http://i4.buimg.com/567571/003a1647c87f21f5.png" alt=""></p>
-<h2 id="简书"><a href="#简书" class="headerlink" title="简书"></a>简书</h2><p>需求：简单的跳转需求<br>由于未在微信scheme的白名单中，因此在微信中打开点击“打开应用”提示点击右上角“···”按钮选择默认浏览器打开。在用Safari打开的同时，用scheme呼起app，若没有呼起则用Safari打开当前网页，如下：<br><img src="http://ww3.sinaimg.cn/large/74311666jw1f7hpmt59v1j20ku112afj.jpg" alt=""><br>【未完待续】</p>
+<h1 id="几款核心App的跳转场景梳理"><a href="#几款核心App的跳转场景梳理" class="headerlink" title="几款核心App的跳转场景梳理"></a>几款核心App的跳转场景梳理</h1><h2 id="哔哩哔哩动画"><a href="#哔哩哔哩动画" class="headerlink" title="哔哩哔哩动画"></a>哔哩哔哩动画</h2><p>需求：简单的跳转需求<br>15年年末，腾讯2亿软妹币投资B站，因此B站作为微信scheme跳转的白名单也不足为奇。<br>B站通过scheme的形式完成从微信到哔哩哔哩动画的跳转。但由于scheme天然的限制，当用户未安装时，点击“用客户端打开”无反应（用），因此在页面底部提供了下载飘条。<br><img src="http://7xrxdv.com1.z0.glb.clouddn.com/4%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.png?imageMogr2/thumbnail/!50p" alt=""></p>
+<h2 id="简书"><a href="#简书" class="headerlink" title="简书"></a>简书</h2><p>需求：简单的跳转需求<br>由于未在微信scheme的白名单中，因此在微信中打开点击“打开应用”提示点击右上角“···”按钮选择默认浏览器打开。在用Safari打开的同时，用scheme呼起app，若没有呼起则用Safari打开当前网页，如下：<br><img src="http://7xrxdv.com1.z0.glb.clouddn.com/3%E7%AE%80%E4%B9%A6.jpg?imageMogr2/thumbnail/!50p" alt=""></p>
 <h2 id="沪江开心词场"><a href="#沪江开心词场" class="headerlink" title="沪江开心词场"></a>沪江开心词场</h2><p>需求：尽可能减少跳转次数（越过微信对于scheme的屏蔽限制）  </p>
 <ol>
 <li>不管如何跳转，尽可能保证原有页面不动– Android QQ中用户点击下载，直接下载安装包</li>
 <li>用户未安装时，提示其下载安装– 即通过scheme跳转又通过在原有页面进行视觉交互层面的提示</li>
 <li>微信提示用浏览器打开时，用户用浏览器打开的瞬间尝试用scheme呼起– 通过对当前页面点击事件响应之后在连接后面增加一个标签，当浏览器打开该标签的url时，即用scheme呼起App，又打开原有的页面 </li>
 </ol>
-<p>即在只能用scheme的地方，通过同时执行两个操作，来弥补scheme无法判断用户是否安装应用的缺失；在能用universal links的情况下，则使用universal links。<br><img src="http://i4.buimg.com/567571/5efd77bf0df86f45.png" alt=""></p>
-<h2 id="支付宝到淘票票，小D词典到沪江开心词场"><a href="#支付宝到淘票票，小D词典到沪江开心词场" class="headerlink" title="支付宝到淘票票，小D词典到沪江开心词场"></a>支付宝到淘票票，小D词典到沪江开心词场</h2><p>由于这两者都属于自家产品，本身可以判断本地是否安装相应的应用，因此直接在需要跳转处，根据用户的安装情况来进行不同提示。<br><img src="http://i2.buimg.com/567571/44c037d5c1afa1ee.jpg" alt=""></p>
+<p>即在只能用scheme的地方，通过同时执行两个操作，来弥补scheme无法判断用户是否安装应用的缺失；在能用universal links的情况下，则使用universal links。<br><img src="http://7xrxdv.com1.z0.glb.clouddn.com/2PK%E5%AF%BC%E5%9B%BE.png?imageMogr2/thumbnail/!50p" alt=""></p>
+<h2 id="支付宝到淘票票，小D词典到沪江开心词场"><a href="#支付宝到淘票票，小D词典到沪江开心词场" class="headerlink" title="支付宝到淘票票，小D词典到沪江开心词场"></a>支付宝到淘票票，小D词典到沪江开心词场</h2><p>由于这两者都属于自家产品，本身可以判断本地是否安装相应的应用，因此直接在需要跳转处，根据用户的安装情况来进行不同提示。<br><img src="http://7xrxdv.com1.z0.glb.clouddn.com/1%E6%B7%98%E7%A5%A8%E7%A5%A8.jpg?imageMogr2/thumbnail/!50p" alt=""></p>
 <h1 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h1><ol>
 <li>沪江开心词场使用universal links的过程中，对于用户跳转后点击右上角的网址后，universal links无法跳转App的问题如何处理.</li>
 <li>iOS中scheme呼起失败，会有提示“Safari打不开该网页，因为网页地址无效”，如何从技术或产品策略上进行优化。</li>
