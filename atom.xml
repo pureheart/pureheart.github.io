@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2017-02-28T17:56:21.000Z</updated>
+  <updated>2017-05-13T16:54:22.000Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>谁说产品不能和视觉好好沟通？</title>
+    <link href="http://pdzhangyi.com/2017/05/14/%E8%B0%81%E8%AF%B4%E4%BA%A7%E5%93%81%E4%B8%8D%E8%83%BD%E5%92%8C%E8%A7%86%E8%A7%89%E5%A5%BD%E5%A5%BD%E6%B2%9F%E9%80%9A/"/>
+    <id>http://pdzhangyi.com/2017/05/14/谁说产品不能和视觉好好沟通/</id>
+    <published>2017-05-13T16:07:04.000Z</published>
+    <updated>2017-05-13T16:54:22.000Z</updated>
+    
+    <content type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;如何让一个“视觉性”需求完美落地&lt;/blockquote&gt;
+
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;如何让一个“视觉性”需求完美落地&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="产品" scheme="http://pdzhangyi.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+      <category term="随笔" scheme="http://pdzhangyi.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>33班级之“二维码”小队</title>
@@ -1030,30 +1055,6 @@
       <category term="面试" scheme="http://pdzhangyi.com/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>短视频</title>
-    <link href="http://pdzhangyi.com/2016/03/20/%E7%9F%AD%E8%A7%86%E9%A2%91/"/>
-    <id>http://pdzhangyi.com/2016/03/20/短视频/</id>
-    <published>2016-03-20T05:57:04.000Z</published>
-    <updated>2016-03-27T11:43:22.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;宇航员漂浮之旅：这是成长的征程&lt;/blockquote&gt;&lt;br&gt;这部短片是 Semi-Permanent 2015 年设计师大会的开幕片。&lt;br&gt;它表面上描述了一个宇航员的漂浮之旅，实际却暗喻一个人由出生、成长、磨练直至最终找到属于自己的广袤之地的过程。&lt;br&gt;From Science Club&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;iframe height=&quot;420&quot; width=&quot;672&quot; src=&quot;http://player.youku.com/embed/XMTUwNTg5NjIyMA==&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;宇航员漂浮之旅：这是成长的征程&lt;/blockquote&gt;&lt;br&gt;这部短片是 Semi-Permanent 2015 年设计师大会的开幕片。&lt;br&gt;它表面上描述了一个宇航员的漂浮之旅，实际却暗喻一个人由出生、成长、磨练直至最终找到属于自己的广袤之地的过程。&lt;br&gt;From Science Club&lt;br&gt;
-    
-    </summary>
-    
-      <category term="视频" scheme="http://pdzhangyi.com/categories/%E8%A7%86%E9%A2%91/"/>
-    
-    
-      <category term="开眼" scheme="http://pdzhangyi.com/tags/%E5%BC%80%E7%9C%BC/"/>
     
   </entry>
   
