@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2018-02-23T17:22:03.492Z</updated>
+  <updated>2018-02-23T17:25:29.971Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://pdzhangyi.com/2018/02/23/%E8%AE%B0%E4%B8%80%E6%AC%A1%E8%B6%85%E7%9F%AD%E6%9A%82%E7%9A%84%E6%80%BB%E7%9B%91%E9%9D%A2/"/>
     <id>http://pdzhangyi.com/2018/02/23/记一次超短暂的总监面/</id>
     <published>2018-02-23T15:38:04.000Z</published>
-    <updated>2018-02-23T17:22:03.492Z</updated>
+    <updated>2018-02-23T17:25:29.971Z</updated>
     
     <content type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;这一场面试太短，短到没有好好说话，我想好好的回答&lt;/blockquote&gt;
 
@@ -57,17 +57,38 @@
 &lt;li&gt;导购内容充斥，有价值的内容被淹没。   &lt;/li&gt;
 &lt;li&gt;Tab分类不合理，内容未按照用户诉求抽离分类，导致价值不明确。   &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;解决方案：&lt;br&gt;1.明确商家和达人的内容核心：促销+互动是内容电商的核心。通过产品机制和运营措施促进相关内容得到更多曝光更多生产。    &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;促销，又根据商品上架节奏分为三个阶段：&lt;/strong&gt;&lt;br&gt;上架前：预购；&lt;br&gt;上架时：上新 + 优惠促销（折扣、拼团、联合活动等等）。   &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;互动，根据用户需求展开，根据购买前后开展：&lt;/strong&gt;&lt;br&gt;购买前：引入用户参与感互动，比如款式投票、征集方案等；&lt;br&gt;购买时：提供评测、各种安利信息（功能特色卖点、买家秀等），促进用户购买；&lt;br&gt;购买后：产品使用保养教程、同款用户安利分享。&lt;br&gt;其他互动：围绕着商家与用户、达人与用户开展，透出用户感兴趣的内容。   &lt;/p&gt;
-&lt;p&gt;2.根据用户关注的核心内容，优化TAB分类，明确用户价值。&lt;br&gt;用户在购物时，对于这几类内容更加关注：上新、评测。&lt;strong&gt;淘宝以“上新”为撬动点（淘宝品类决定其上新频率更高），京东可以以“评测”为撬动点。&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/%E5%BE%AE%E6%B7%98.jpg&quot; alt=&quot;淘宝微淘TAB结构&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/%E4%BA%AC%E4%B8%9C%E5%8F%91%E7%8E%B0.jpg&quot; alt=&quot;京东发现TAB改版结构猜想&quot;&gt;  &lt;/p&gt;
-&lt;p&gt;3.内容的推荐机制优化。&lt;br&gt;以热度和个性化推荐为例，核心以用户感兴趣为核心。    &lt;/p&gt;
-&lt;p&gt;用户感兴趣的内容核心点：&lt;br&gt;1.已购商品；&lt;br&gt;2.购物车；&lt;br&gt;3.搜索与详情浏览；&lt;br&gt;4.关注行为：商品、店铺、内容；   &lt;/p&gt;
-&lt;p&gt;可能感兴趣：&lt;br&gt;1.高复购的商品（比如：快消品）；&lt;br&gt;2.已购商品的上下游关联商品（比如：表带与手表）。   &lt;/p&gt;
+&lt;p&gt;解决方案：  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;明确商家和达人的内容核心：促销+互动是内容电商的核心。通过产品机制和运营措施促进相关内容得到更多曝光更多生产。    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;促销内容，分为两个阶段展开内容：&lt;/strong&gt;&lt;br&gt;上架前：预购；&lt;br&gt;上架时：上新 + 优惠促销（折扣、拼团、联合活动等等）。   &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;互动内容，根据用户需求展开，根据购买前后开展：&lt;/strong&gt;&lt;br&gt;购买前：引入用户参与感互动，比如款式投票、征集方案等；&lt;br&gt;购买时：提供评测、各种安利信息（功能特色卖点、买家秀等），促进用户购买；&lt;br&gt;购买后：产品使用保养教程、同款用户安利分享。&lt;br&gt;其他互动：围绕着商家与用户、达人与用户开展，透出用户感兴趣的内容。   &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;根据用户关注的核心内容，优化TAB分类，明确用户价值。&lt;br&gt;用户在购物时，对于这几类内容更加关注：上新、评测。&lt;strong&gt;淘宝以“上新”为撬动点（淘宝品类决定其上新频率更高），京东可以以“评测”为撬动点。&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/%E5%BE%AE%E6%B7%98.jpg&quot; alt=&quot;淘宝微淘TAB结构&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/%E4%BA%AC%E4%B8%9C%E5%8F%91%E7%8E%B0.jpg&quot; alt=&quot;京东发现TAB改版结构猜想&quot;&gt;  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;内容的推荐机制优化。&lt;br&gt;以热度和个性化推荐为例，核心以用户感兴趣为核心。    &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;用户感兴趣的内容核心点：    &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;已购商品；  &lt;/li&gt;
+&lt;li&gt;购物车；  &lt;/li&gt;
+&lt;li&gt;搜索与详情浏览；   &lt;/li&gt;
+&lt;li&gt;关注行为：商品、店铺、内容；   &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;可能感兴趣：   &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;高复购的商品（比如：快消品）；   &lt;/li&gt;
+&lt;li&gt;已购商品的上下游关联商品（比如：表带与手表）。   &lt;/li&gt;
+&lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;提升关注关系&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/%E8%90%BD%E5%9C%B0%E4%BA%8B%E9%A1%B91.jpg&quot; alt=&quot;落地事项猜想&quot;&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;为什么跳槽&quot;&gt;&lt;a href=&quot;#为什么跳槽&quot; class=&quot;headerlink&quot; title=&quot;为什么跳槽&quot;&gt;&lt;/a&gt;为什么跳槽&lt;/h2&gt;&lt;p&gt;从自身发展需要和兴趣方面聊了两点，当时紧张担心说团队业务的问题会不好。&lt;br&gt;&lt;strong&gt;完整版&lt;/strong&gt;&lt;br&gt;1.自身对于成长的需要，并非通过跳槽实现，而是原有的业务和团队对于自身发展已经遇到瓶颈；&lt;br&gt;2.兴趣上，通过2年教育行业经历，也想明白了，发现自身兴趣不在此；&lt;br&gt;&lt;strong&gt;3.业务负责人非教育非产品非运营出身，自身成长和业务推进都很难受。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;为什么跳槽&quot;&gt;&lt;a href=&quot;#为什么跳槽&quot; class=&quot;headerlink&quot; title=&quot;为什么跳槽&quot;&gt;&lt;/a&gt;为什么跳槽&lt;/h2&gt;&lt;p&gt;从自身发展需要和兴趣方面聊了两点，当时紧张担心说团队业务的问题会不好。&lt;br&gt;&lt;strong&gt;完整版&lt;/strong&gt;     &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;自身对于成长的需要，并非通过跳槽实现，而是原有的业务和团队对于自身发展已经遇到瓶颈；   &lt;/li&gt;
+&lt;li&gt;兴趣上，通过2年教育行业经历，也想明白了，发现自身兴趣不在此；&lt;br&gt;&lt;strong&gt;3. 业务负责人非教育非产品非运营出身，自身成长和业务推进都很难受。&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&quot;薪酬&quot;&gt;&lt;a href=&quot;#薪酬&quot; class=&quot;headerlink&quot; title=&quot;薪酬&quot;&gt;&lt;/a&gt;薪酬&lt;/h2&gt;&lt;p&gt;签了保密协议，只是提供了区间参考。&lt;/p&gt;
 &lt;h2 id=&quot;私域&quot;&gt;&lt;a href=&quot;#私域&quot; class=&quot;headerlink&quot; title=&quot;私域&quot;&gt;&lt;/a&gt;私域&lt;/h2&gt;&lt;p&gt;由于此前只是接触过，但未深入了解，只是提到了私域能够充分发挥私域流量主（上架或达人）的主观能动性。&lt;br&gt;该回答没有完整版，自己也在学习中。&lt;/p&gt;
 </content>
