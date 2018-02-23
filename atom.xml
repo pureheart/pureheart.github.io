@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://pdzhangyi.com/"/>
-  <updated>2017-11-16T15:54:03.000Z</updated>
+  <updated>2018-02-23T17:22:03.492Z</updated>
   <id>http://pdzhangyi.com/</id>
   
   <author>
@@ -14,6 +14,76 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记一次超短暂的总监面</title>
+    <link href="http://pdzhangyi.com/2018/02/23/%E8%AE%B0%E4%B8%80%E6%AC%A1%E8%B6%85%E7%9F%AD%E6%9A%82%E7%9A%84%E6%80%BB%E7%9B%91%E9%9D%A2/"/>
+    <id>http://pdzhangyi.com/2018/02/23/记一次超短暂的总监面/</id>
+    <published>2018-02-23T15:38:04.000Z</published>
+    <updated>2018-02-23T17:22:03.492Z</updated>
+    
+    <content type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;这一场面试太短，短到没有好好说话，我想好好的回答&lt;/blockquote&gt;
+
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;这场面试不足十分钟，由于自身紧张(凌晨3点到上海，下午5点面试)，很多内容都没有表达出来，自己也觉得不太满意，故整理出来，并且把每一个问题相对完整的回答奉上。&lt;/p&gt;
+&lt;h1 id=&quot;面试问题&quot;&gt;&lt;a href=&quot;#面试问题&quot; class=&quot;headerlink&quot; title=&quot;面试问题&quot;&gt;&lt;/a&gt;面试问题&lt;/h1&gt;&lt;h2 id=&quot;自我介绍&quot;&gt;&lt;a href=&quot;#自我介绍&quot; class=&quot;headerlink&quot; title=&quot;自我介绍&quot;&gt;&lt;/a&gt;自我介绍&lt;/h2&gt;&lt;p&gt;开始得有点突然，自我介绍也没有说完整。&lt;br&gt;&lt;strong&gt;完整版&lt;/strong&gt;&lt;br&gt;张易，16年毕业，15年阿里巴巴内部创业项目2个月产品实习（随拿到了转正资格，但因&lt;strong&gt;拥抱变化&lt;/strong&gt;，整个部门都没有HC），毕业至今在沪江教育工具产品沪江开心词场任核心产品经理，负责产品规划和核心迭代，对用户增长（留存、新增、口碑）、学习氛围的落地负责。&lt;br&gt;ZEALER粉丝一枚（王自如，从手机测评到科技生活），对于手机类科技产品很感兴趣，经常逛测评网站，测评内容本身就是内容电商里比较常见的。用爬虫分析了京东发现精选频道最近30天的文章，手机占比33%、浏览了京东最新的财报，电子及家电占GMV50%，侧面反映出对于数码科技感兴趣的我，本身是了解目前京东用户的，这个为我开展业务提供了基石。&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/%E4%BA%AC%E4%B8%9C%E7%B2%BE%E9%80%89%E9%98%85%E8%AF%BB%E8%BF%87%E5%AE%8CW%E6%96%87%E7%AB%A0%E7%B1%BB%E5%88%AB.jpeg&quot; alt=&quot;近一个月京东精选阅读过完W的文章品类&quot;&gt;&lt;br&gt;PS：通过与身旁护肤品小KOL的访谈，发现护肤品的购买路径与数码产品很类似（会重点关注评测再购买）。&lt;/p&gt;
+&lt;h2 id=&quot;沪江业务&quot;&gt;&lt;a href=&quot;#沪江业务&quot; class=&quot;headerlink&quot; title=&quot;沪江业务&quot;&gt;&lt;/a&gt;沪江业务&lt;/h2&gt;&lt;p&gt;这块比较熟悉，虽然紧张，但回答得相对完整些。&lt;br&gt;&lt;strong&gt;完整版&lt;/strong&gt;&lt;br&gt;沪江的业务模式：   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;沪江网校B2C（卖课），两个品牌：hitalk（口语）、UNI（智能学习系统）→ 类似于京东自营； &lt;/li&gt;
+&lt;li&gt;CCTlak直播平台，主打网师平台 → 类似于淘宝； &lt;/li&gt;
+&lt;li&gt;围绕着语言学习路径上的工具：背单词（沪江开心词场）、查单词（沪江小D词典）、微课（沪江学习）、口语（天天练口语小程序）、阅读（焦糖阅读）； &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;盈利模式核心：目前是卖课，未来是网师平台。  &lt;/p&gt;
+&lt;h2 id=&quot;核心工作&quot;&gt;&lt;a href=&quot;#核心工作&quot; class=&quot;headerlink&quot; title=&quot;核心工作&quot;&gt;&lt;/a&gt;核心工作&lt;/h2&gt;&lt;p&gt;这块烂熟于心，但没有表达清楚。&lt;br&gt;&lt;strong&gt;完整版&lt;/strong&gt;&lt;br&gt;工作业务核心分为两块：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用户增长：现有新增下的漏斗提升，包括次留与长期留存提升（17年预算减半，MAU/DAU翻倍，次留上涨4-8个百分点）；新的新增渠道和方式的探索。  &lt;/li&gt;
+&lt;li&gt;互相激励的学习氛围建设：该为17年确定的产品核心差异化，通过学习社群等方式落地（组对学习MVP落地，目标用户留存提升50%）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;对于京东发现的理解&quot;&gt;&lt;a href=&quot;#对于京东发现的理解&quot; class=&quot;headerlink&quot; title=&quot;对于京东发现的理解&quot;&gt;&lt;/a&gt;对于京东发现的理解&lt;/h2&gt;&lt;p&gt;比较范范的谈了下（展现形式、业务模式），但其实自己有完整的理解没有表达出来。&lt;br&gt;&lt;strong&gt;完整版&lt;/strong&gt;&lt;br&gt;展现形式上，京东发现也是信息流，当下确实特别火（连美团大众点评都在做）。&lt;br&gt;业务模式，分别从对于不同角色的价值，核心要点展开说明。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;内容电商（16、17年大火，从交易型电商到社交型电商再到内容电商），帮助用户更底成本的发现更好的东西，本质上是流量变贵，用户对于品质要求变高的需要。  &lt;/li&gt;
+&lt;li&gt;三个角色：商家、达人、用户。&lt;/li&gt;
+&lt;li&gt;C端用户诉求：找到更好的商品、辅助购买决策、与商家互动（使用咨询与教程等）、与同兴趣用户互动（摄影器材发烧友之类的）。&lt;/li&gt;
+&lt;li&gt;三个核心关系，商家与用户（交易关系变为客户关系，被动搜索售卖→促销+互动），达人与用户（导购关系变为KOL与粉丝关系，纯导购→测评鉴赏辅助决策建议），商家与达人（共生关系，达人帮助商家产品找到更精准的用户-流量，商家为达人提供分成-收益）。&lt;/li&gt;
+&lt;li&gt;对于京东，帮助商家和达人附能，产生更多思域流量促进流量交易转化，提高arpu。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;对于面试岗位的工作理解&quot;&gt;&lt;a href=&quot;#对于面试岗位的工作理解&quot; class=&quot;headerlink&quot; title=&quot;对于面试岗位的工作理解&quot;&gt;&lt;/a&gt;对于面试岗位的工作理解&lt;/h2&gt;&lt;p&gt;当时太紧张，只是提到了面试岗位要求里的内容，但没有提到核心的思想和落地方案。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;完整版&lt;/strong&gt;&lt;br&gt;根据JD里提到的：“为商家和达人附能，提高全站关注关系。”，围绕这个核心需求进行拆解。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;完善“京东发现”用户认知，为商家附能第一步&lt;/strong&gt;   &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;京东发现能够帮助用户发现更好的商品、更好的商品内容，帮助用户买到喜欢的优质商品；&lt;br&gt;现状：   &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;导购内容充斥，有价值的内容被淹没。   &lt;/li&gt;
+&lt;li&gt;Tab分类不合理，内容未按照用户诉求抽离分类，导致价值不明确。   &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;解决方案：&lt;br&gt;1.明确商家和达人的内容核心：促销+互动是内容电商的核心。通过产品机制和运营措施促进相关内容得到更多曝光更多生产。    &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;促销，又根据商品上架节奏分为三个阶段：&lt;/strong&gt;&lt;br&gt;上架前：预购；&lt;br&gt;上架时：上新 + 优惠促销（折扣、拼团、联合活动等等）。   &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;互动，根据用户需求展开，根据购买前后开展：&lt;/strong&gt;&lt;br&gt;购买前：引入用户参与感互动，比如款式投票、征集方案等；&lt;br&gt;购买时：提供评测、各种安利信息（功能特色卖点、买家秀等），促进用户购买；&lt;br&gt;购买后：产品使用保养教程、同款用户安利分享。&lt;br&gt;其他互动：围绕着商家与用户、达人与用户开展，透出用户感兴趣的内容。   &lt;/p&gt;
+&lt;p&gt;2.根据用户关注的核心内容，优化TAB分类，明确用户价值。&lt;br&gt;用户在购物时，对于这几类内容更加关注：上新、评测。&lt;strong&gt;淘宝以“上新”为撬动点（淘宝品类决定其上新频率更高），京东可以以“评测”为撬动点。&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/%E5%BE%AE%E6%B7%98.jpg&quot; alt=&quot;淘宝微淘TAB结构&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/%E4%BA%AC%E4%B8%9C%E5%8F%91%E7%8E%B0.jpg&quot; alt=&quot;京东发现TAB改版结构猜想&quot;&gt;  &lt;/p&gt;
+&lt;p&gt;3.内容的推荐机制优化。&lt;br&gt;以热度和个性化推荐为例，核心以用户感兴趣为核心。    &lt;/p&gt;
+&lt;p&gt;用户感兴趣的内容核心点：&lt;br&gt;1.已购商品；&lt;br&gt;2.购物车；&lt;br&gt;3.搜索与详情浏览；&lt;br&gt;4.关注行为：商品、店铺、内容；   &lt;/p&gt;
+&lt;p&gt;可能感兴趣：&lt;br&gt;1.高复购的商品（比如：快消品）；&lt;br&gt;2.已购商品的上下游关联商品（比如：表带与手表）。   &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;提升关注关系&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;http://7xrxdv.com1.z0.glb.clouddn.com/%E8%90%BD%E5%9C%B0%E4%BA%8B%E9%A1%B91.jpg&quot; alt=&quot;落地事项猜想&quot;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;为什么跳槽&quot;&gt;&lt;a href=&quot;#为什么跳槽&quot; class=&quot;headerlink&quot; title=&quot;为什么跳槽&quot;&gt;&lt;/a&gt;为什么跳槽&lt;/h2&gt;&lt;p&gt;从自身发展需要和兴趣方面聊了两点，当时紧张担心说团队业务的问题会不好。&lt;br&gt;&lt;strong&gt;完整版&lt;/strong&gt;&lt;br&gt;1.自身对于成长的需要，并非通过跳槽实现，而是原有的业务和团队对于自身发展已经遇到瓶颈；&lt;br&gt;2.兴趣上，通过2年教育行业经历，也想明白了，发现自身兴趣不在此；&lt;br&gt;&lt;strong&gt;3.业务负责人非教育非产品非运营出身，自身成长和业务推进都很难受。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;薪酬&quot;&gt;&lt;a href=&quot;#薪酬&quot; class=&quot;headerlink&quot; title=&quot;薪酬&quot;&gt;&lt;/a&gt;薪酬&lt;/h2&gt;&lt;p&gt;签了保密协议，只是提供了区间参考。&lt;/p&gt;
+&lt;h2 id=&quot;私域&quot;&gt;&lt;a href=&quot;#私域&quot; class=&quot;headerlink&quot; title=&quot;私域&quot;&gt;&lt;/a&gt;私域&lt;/h2&gt;&lt;p&gt;由于此前只是接触过，但未深入了解，只是提到了私域能够充分发挥私域流量主（上架或达人）的主观能动性。&lt;br&gt;该回答没有完整版，自己也在学习中。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;这一场面试太短，短到没有好好说话，我想好好的回答&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="产品" scheme="http://pdzhangyi.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+      <category term="面试" scheme="http://pdzhangyi.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>谁说产品不能和视觉好好沟通？</title>
@@ -975,85 +1045,6 @@
     
     
       <category term="产品" scheme="http://pdzhangyi.com/tags/%E4%BA%A7%E5%93%81/"/>
-    
-      <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>阿里实习-面试</title>
-    <link href="http://pdzhangyi.com/2016/03/20/%E9%98%BF%E9%87%8C%E5%AE%9E%E4%B9%A0-%E9%9D%A2%E8%AF%95/"/>
-    <id>http://pdzhangyi.com/2016/03/20/阿里实习-面试/</id>
-    <published>2016-03-20T08:30:17.000Z</published>
-    <updated>2016-09-04T05:37:41.000Z</updated>
-    
-    <content type="html">&lt;blockquote class=&quot;blockquote-center&quot;&gt;成也萧何，败也萧何&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;15年暑假阿里的实习，得益于阿里对于实习生的重视收获颇大，刚好最近也有时间，遂来整理和总结一下这一段难忘的经历。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;机会&quot;&gt;&lt;a href=&quot;#机会&quot; class=&quot;headerlink&quot; title=&quot;机会&quot;&gt;&lt;/a&gt;机会&lt;/h2&gt;&lt;p&gt;无独有偶14年9月份在参加党员转正会议上，遇到了暑假没有实习而选择创业的上届学生会主席杨拥，得知他刚刚得到了阿里运营岗位的offer，李航姐也得到了阿里运营岗位的offer，感觉瞬间人生圆满。自己对于阿里也一直有些感触，又喝了太多的马云牌鸡汤。于是杨拥哥就鼓励我并允诺给我内推阿里（也是那个时候对于内推有了较为清晰的认知：阿里给与员工的一种福利和责任，员工可以推荐他认为合适的人才到公司，员工能得到一定的奖励。这种好处在于，被推荐者比海投的质量一般要高。PS：实习生也可以内推别人，被推荐者应聘正式岗位才有奖励）。&lt;/p&gt;
-&lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h2&gt;&lt;h3 id=&quot;缺乏斗志&quot;&gt;&lt;a href=&quot;#缺乏斗志&quot; class=&quot;headerlink&quot; title=&quot;缺乏斗志&quot;&gt;&lt;/a&gt;缺乏斗志&lt;/h3&gt;&lt;p&gt;14年下半年，基本上就是忙碌英特尔杯大学生软件创新大赛，十月份更是全国总决赛。意料之外，又情理之中的获得了特等奖（创造了学院历史，/捂脸）。也许也正因为这个特等奖，把自己的好运、决心和拼搏的态度消耗，这个荣誉也给了自己太多的刺激（包括见识了一些风投圈子：黑马会、海捷投资等，略知了创业投资在中国大概是怎么一回事儿），以至于后来自己面对很多事情都没有了曾经的渴望、斗志和激情。实习生的面试更是如此：杨拥哥一直叮嘱我，让我寒假在家好好准备简历，并且给他把把关（真心被感动，只怪自己不努力）。可寒假在家就是玩乐，等开学到校，已经临近3月，内推大战早也已开始。也许是因为特等奖得到了保研资格的缘故，自己突然间的那份坚定工作的心似乎动摇了一些。而我直到快内推结束时，才把简历上传好。这也直接导致了面试进度异常缓慢。&lt;/p&gt;
-&lt;h3 id=&quot;岗位选择&quot;&gt;&lt;a href=&quot;#岗位选择&quot; class=&quot;headerlink&quot; title=&quot;岗位选择&quot;&gt;&lt;/a&gt;岗位选择&lt;/h3&gt;&lt;p&gt;虽然自己一直没有怎么准备简历，但是对于互联网公司岗位一直有些了解（这一点尤为重要）。在大二时候，参加学院举行的模拟面试，无意间接触到了一个岗位：售前技术工程师。当时得到的定义是：连接客户和技术人员的桥梁，为客户提供技术性的产品和服务解决方案。当时就觉得这个岗位需要了解并且熟知技术原理和逻辑，但又不需要实操，再者又需要与客户充分的沟通，挖掘客户需求。既不想售前那样子侧重于产品方案的销售（订单的争夺），又不像技术开发那样子需要精通并且实际编码。于是乎，就觉得这个是为我量身定制的啊。内心里觉得自己干编程也能胜任，但并非最爱，同时又不能完全干与技术无关的，不然大学专业似乎白费了。加之自己又喜欢与人沟通，特别是和陌生人聊一些产品等等。这些因素促使我神往这个职位。也正因为这个岗位，我去百度和知乎上看了一下，发现这个岗位侧重于在传统的IT企业，特别是技术服务方案提供商和设备制造商，比如华为这种。而类似于BAT这种互联网公司，有一个岗位相似，却更有魅力：产品经理。那个时候得到的感觉就是后者侧重于对于产品方案的设计，这样子似乎等能发挥自己脑洞的魔力。坚定了岗位的选择，对于简历上自身经历的梳理也更为清晰了。&lt;/p&gt;
-&lt;h3 id=&quot;简历梳理&quot;&gt;&lt;a href=&quot;#简历梳理&quot; class=&quot;headerlink&quot; title=&quot;简历梳理&quot;&gt;&lt;/a&gt;简历梳理&lt;/h3&gt;&lt;p&gt;事实是简历多打磨打磨，效果会大相径庭，而自己却不以为然：也许是出于自信，抑或是懒散。自己只是简单的将大学三年所经历过的重要项目、荣誉填写与纸上，并没有斟酌太多。幸运的是，大学所经历的还算丰富，甚至也是早有准备。&lt;br&gt;大一，自己干了两件事，其一延续高中的学习态度和状态得了国励志和校一等奖学金；其二干组织委员，把班级活动干得风声水起，有一两个活动至今还记忆犹新。&lt;br&gt;大二，参加一些学科竞赛，主要还是担任学院学生会外联部长，完成了主席设立年度任务指标（零经验和零资源的条件下完成1W元外联资金的筹集）。&lt;br&gt;大三，一个是忙碌各种学科竞赛、尝试创业融资。虽然融资失败，但是也经历蛮多。竞赛的手绘心语作品（负责创意、产品设计方案、比赛讲演和部分编码），得了国特，也代表湖南赛区去了上海参加校园黑马总决赛。为了证明自己并不是因为代码敲不好才去干非技术，在三四天几乎通宵的情况下近乎零基础从html到mvc、Struts、hibernate完成最后的j2ee的购物网站项目。&lt;br&gt;再加上获得其他一些荣誉，比较骄傲的是代表学院，用田忌赛马的方式，打败了强大的数统院获得了第一。&lt;br&gt;基本上就梳理了这些东西，然后在乔布的简历大赛上看了几个靠前的简历，选了模板填写起来。&lt;br&gt;后来才意识，其实简历有许多需要考量的点。&lt;/p&gt;
-&lt;p&gt;内在要求：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;对于岗位的熟知程度：实际工作和素质、能力要求&lt;/li&gt;
-&lt;li&gt;个人经历提炼总结与岗位的匹配&lt;/li&gt;
-&lt;li&gt;非客观性的自我描述的斟酌&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;表象要求： &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;证件照片：标准、清晰&lt;/li&gt;
-&lt;li&gt;客观性描述的数据化：一等奖学金（前5%），带有百分比的数据更有说服力&lt;/li&gt;
-&lt;li&gt;适合岗位的风格和排版：产品岗位的简历本身就应该是一个产品&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;简历投递&quot;&gt;&lt;a href=&quot;#简历投递&quot; class=&quot;headerlink&quot; title=&quot;简历投递&quot;&gt;&lt;/a&gt;简历投递&lt;/h3&gt;&lt;p&gt;简历准备好后，上传至阿里校招官网，需要在网站上回答三个问题，我基本上是按照简历内容来回答的（网上有太多精妙的回答，但是并不介意按照那些套路来，回到真实的自己，答案才有可能更出彩）。&lt;br&gt;简历投递中还有一个很重要的部门选择，我当时居然选了高德。太多的缘故，又加之被推荐到的阿里集团，这导致了我最后去了旺信这个产品事业部。还是当初不够自信，没有选择支付宝，疑惑是淘宝及其他大的产品。不过有喜也有忧，最后被分配的是内部创业行家，感觉学到的也许有一些不同。&lt;/p&gt;
-&lt;h2 id=&quot;面试&quot;&gt;&lt;a href=&quot;#面试&quot; class=&quot;headerlink&quot; title=&quot;面试&quot;&gt;&lt;/a&gt;面试&lt;/h2&gt;&lt;h3 id=&quot;面试浅谈&quot;&gt;&lt;a href=&quot;#面试浅谈&quot; class=&quot;headerlink&quot; title=&quot;面试浅谈&quot;&gt;&lt;/a&gt;面试浅谈&lt;/h3&gt;&lt;p&gt;阿里的校招实习生内推面试（非技术）：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;一面（电话面试）：了解基本情况，合适简历真实性，简单有内容的自我介绍尤为重要。&lt;/li&gt;
-&lt;li&gt;二面（技术面试）：有针对性的进行提问，并且较为深入的追问。&lt;/li&gt;
-&lt;li&gt;三面（HR面）：了解性格特点、事业选择、情感、家庭and so on。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;一面，关键在于表现出自信、沉着。在几分钟之内，给与面试官的感受：简历情况属实，且对于该岗位做了较为充分的准备，个人能力素质良好（主要是沟通表达能力）。&lt;br&gt;二面，关键在对于该岗位的认知。对于产品岗位来说，就需要较为深刻的去分析产品，抓住几个要素：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;产品的定位人群受众是哪些–用户&lt;br&gt;可以将用户人群按照一定的特点进行分类，比如年龄、收入、学历、社会角色分工、喜好等，来初步回答。&lt;br&gt;然后可以按照初级用户、普通用户、高级用户针对产品的功能和内容及使用场景进行回答。&lt;br&gt;推荐阅读：&lt;br&gt;&lt;a href=&quot;http://cdc.tencent.com/?p=1588&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;用户分类浅谈&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;产品解决了什么用户需求（给用户带来了什么价值）–需求&lt;br&gt;可以首先概括性的点明，该产品通过什么方式解决了用户什么需求（美团外卖通过线上选餐购买支付到线下配送-o2o，解决了人们在线下购买外卖的需求）。&lt;br&gt;然后可以将用户的需求按照场景进行分类并分级结构，比如美团外卖的需求按照用户使用流程分两个模块：在线选餐和线下配送。在线选餐则包含了，选购餐品又可以分类：中高低端、餐品种类（快餐、火锅、饮品…）；而线下配送则对应的：配送时间、路径、配送人员和方式等等。&lt;br&gt;推荐阅读：&lt;br&gt;&lt;a href=&quot;http://www.woshipm.com/pd/132038.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;产品设计背后的马斯洛需求层次&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.woshipm.com/discuss/53005.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;用户体验五要素–五层需求&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;产品的场景有哪些–解决方案&lt;br&gt;通常可以从常用入门场景到高端深入场景来逐步回答。入门用户在什么场景下，如何使用，高端用户在什么场景下，如何使用等等。&lt;br&gt;回答的关键点在于分级结构、逐条回答。需要具备一定的理论基础和实际的使用体验。&lt;br&gt;当然这是对于产品方面的回答，最好将这些回答与自身的项目经理进行结合，比如我在设计手绘心语的时候，它的目标人群，用户场景、解决方案等等分别是什么，对应有哪些考量和设计。包括在回答自身的学生工作等经历时，也需要将岗位需要具备的素质给表现出来。&lt;br&gt;三面，自身情况如实回答，表现出对于该公司文化的热爱和认可、向往。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;center&gt;&lt;strong&gt;&lt;em&gt;我所准备和努力的，是该岗位该公司所需要的，除此之外，我还有自己的思考和建设。&lt;/em&gt;&lt;/strong&gt;&lt;/center&gt;
-
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;我的面试&quot;&gt;&lt;a href=&quot;#我的面试&quot; class=&quot;headerlink&quot; title=&quot;我的面试&quot;&gt;&lt;/a&gt;我的面试&lt;/h3&gt;&lt;p&gt;一面，在寝室，不到十分钟结束，按照约定时间，正常开始，却出乎意料如此简短，主要原因在于，校招面试工作的繁重，需要处理的简历尤其之多，因此如何抓住这几分钟，表现出个人特点和优势是关键。我觉得一方面简历上的几个奖项给了我不小的起点，其次大学期间的学生工作经历也给了几分稳重和熟练的表达能力。&lt;br&gt;二面，在大街上接到电话，原本希望要另约时间，却被告知面试官很忙，不得已而为之找了一个角落，巴拉巴拉面了三四十分钟。关键还是大学期间的项目经历较为丰富，也有一定的产品思考和设计在里面。但是那个时候对于产品模型（产品架构+运营体系+商业模式）还不够抽象和了解，对于app的深入思考和理解也还不够。&lt;br&gt;过了二面基本上就过了。 三面如实照答，一切顺利。&lt;br&gt;总结：由于对于自身的项目经历的自信，也导致了自身对于其他产品的深入研究过少，这一点对我后来的影响尤为深远（好痛、好痛）。&lt;/p&gt;
-&lt;h1 id=&quot;结果&quot;&gt;&lt;a href=&quot;#结果&quot; class=&quot;headerlink&quot; title=&quot;结果&quot;&gt;&lt;/a&gt;结果&lt;/h1&gt;&lt;p&gt;后来顺利的收到了阿里的offer，被分配到了旺信与客户端事业部行家项目组，也开开心心浪了。似曾相识，拿到了阿里的offer，其他的面试涣散太多，以至于神往的腾讯挂在了一面。成也萧何，败也萧何。&lt;/p&gt;
-&lt;blockquote class=&quot;blockquote-center&quot;&gt;有机会，一定要全力以赴，切记。&lt;/blockquote&gt;
-
-
-
-
-
-
-
-
-
-
-
-</content>
-    
-    <summary type="html">
-    
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;成也萧何，败也萧何&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;15年暑假阿里的实习，得益于阿里对于实习生的重视收获颇大，刚好最近也有时间，遂来整理和总结一下这一段难忘的经历。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="回忆" scheme="http://pdzhangyi.com/categories/%E5%9B%9E%E5%BF%86/"/>
-    
-    
-      <category term="面试" scheme="http://pdzhangyi.com/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="阿里" scheme="http://pdzhangyi.com/tags/%E9%98%BF%E9%87%8C/"/>
     
